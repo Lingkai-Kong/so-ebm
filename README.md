@@ -1,7 +1,9 @@
 # SO-EBM
 This repo contains our code for paper: 
 
-End-to-End Stochastic Optimization with Energy-Based Model, Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang
+End-to-End Stochastic Optimization with Energy-Based Model
+
+Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang
 
 [[paper](https://arxiv.org/abs/2211.13837)] 
 
