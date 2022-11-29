@@ -5,7 +5,7 @@ End-to-End Stochastic Optimization with Energy-Based Model, Lingkai Kong, Jiamin
 
 [[paper](https://arxiv.org/abs/2211.13837)] 
 
-![SDE-Net](figure/illustration.png)
+![SDE-Net](figure/overall.png)
 
 
 ## Training and Evaluation
@@ -19,16 +19,14 @@ Training with DFL:
 ```
 python DFL.py --lr 0.0001
 ```
-Evaluation:
+Evaluation for the baselines:
 ```
 python test_baseline.py 
 ```
 Training with SO-EBM
-
-
-
-
-
+```
+python SO-EBM.py
+```
 
 ## Citation
 Please cite the following paper if you find this repo helpful. Thanks!
