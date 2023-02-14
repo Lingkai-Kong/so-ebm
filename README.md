@@ -27,8 +27,10 @@ python test_baseline.py
 ```
 Training with SO-EBM
 ```
-python SO-EBM.py
+python so-ebm.py
 ```
+
+Note that DFL and SO-EBM needs to first train the two-stage model as the pre-trained model.
 
 ## Citation
 Please cite the following paper if you find this repo helpful. Thanks!
@@ -37,7 +39,15 @@ Please cite the following paper if you find this repo helpful. Thanks!
   title={End-to-end Stochastic Optimization with Energy-based Model},
   author={Kong, Lingkai and Cui, Jiaming and Zhuang, Yuchen and Feng, Rui and Prakash, B Aditya and Zhang, Chao},
   booktitle={Advances in Neural Information Processing Systems}
-  year={2020}
+  year={2022}
 }
 ```
-# SO-EBM
+```
+@article{donti2017task,
+  title={Task-based end-to-end model learning in stochastic optimization},
+  author={Donti, Priya and Amos, Brandon and Kolter, J Zico},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+```# so-ebm
