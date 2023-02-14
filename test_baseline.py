@@ -1,10 +1,7 @@
 import argparse
-import setproctitle
-from models import RegressionFNP
 import os
 import pandas as pd
 import numpy as np
-
 from datetime import datetime as dt
 import pytz
 from pandas.tseries.holiday import USFederalHolidayCalendar
@@ -14,7 +11,7 @@ except ImportError: pass
 
 import torch
 
-import model_classes, nets, plot
+import model_classes, nets
 from constants import *
 
 
@@ -68,14 +65,12 @@ def main():
     description='Run electricity scheduling task net experiments.')
     parser.add_argument('--save', type=str, 
         metavar='save-folder', help='prefix to add to save path')
-    parser.add_argument('--nRuns', type=int, default=5,
+    parser.add_argument('--nRuns', type=int, default=10,
         metavar='runs', help='number of runs')
-    parser.add_argument('--ratio', type=float, default=1.,
-        metavar='ratio', help='ratio of training data')
     args = parser.parse_args()
     
-    X1, Y1 = load_data_with_features('pjm_load_data_2008-11.txt')
-    X2, Y2 = load_data_with_features('pjm_load_data_2012-16.txt')
+    X1, Y1 = load_data_with_features('data/pjm_load_data_2008-11.txt')
+    X2, Y2 = load_data_with_features('data/pjm_load_data_2012-16.txt')
 
     X = np.concatenate((X1, X2), axis=0)
     X[:,:-1] = \
@@ -116,13 +111,12 @@ def main():
     # Generation scheduling problem params.
     params = {"n": 24, "c_ramp": 0.4, "gamma_under": 50, "gamma_over": 0.5}
     
-    nll_base_list = []
+
     task_base_list = []
-    nll_task_list = []
     task_task_list = []
 
     print('#######################################')
-    for run in range(1):
+    for run in range(args.nRuns):
         save_folder = os.path.join(base_save, str(run))
         if not os.path.exists(save_folder):
             os.makedirs(save_folder)
@@ -130,34 +124,26 @@ def main():
         model_nll = model_classes.Net(X_train2[:,:-1], Y_train2, [200, 200])
         if USE_GPU:
             model_nll = model_nll.cuda()
-        model_nll.load_state_dict(torch.load(os.path.join(save_folder, 'two-stage')))
-        nll_base, task_base = nets.eval_net("nll_net", model_nll, variables, params, save_folder)
-        
-        nll_base_list.append(nll_base.sum())
+        model_nll.load_state_dict(torch.load(os.path.join(save_folder, 'two-stage_model')))
+        task_base = nets.eval_net(model_nll, variables, params)
         task_base_list.append(task_base.sum())
         
         model_task = model_classes.Net(X_train2[:,:-1], Y_train2, [200, 200])
         if USE_GPU:
             model_task = model_task.cuda()
-        model_task.load_state_dict(torch.load(os.path.join(save_folder, 'DFL-model')))
-        nll_task, task_task = nets.eval_net("task_net", model_task, variables, params, save_folder)
+        model_task.load_state_dict(torch.load(os.path.join(save_folder, 'dfl_model')))
+        task_task = nets.eval_net(model_task, variables, params)
     
-        nll_task_list.append(nll_task.sum())
         task_task_list.append(task_task.sum())
     
     
-    nll_base_list = np.array(nll_base_list)
     task_base_list = np.array(task_base_list)
     
-    nll_task_list = np.array(nll_task_list)
     task_task_list = np.array(task_task_list)
 
 
-    print('Vanillia neural network NLL: {}, Task: {}'.format(nll_base_list.mean(), task_base_list.mean()))
-    print('Task based neural network NLL: {}, Task: {}'.format(nll_task_list.mean(), task_task_list.mean()))
-
-    print('Vanillia neural network NLL: {}, Task: {}'.format(nll_base_list.std(), task_base_list.std()))
-    print('Task based neural network NLL: {}, Task: {}'.format(nll_task_list.std(), task_task_list.std()))
+    print('Two-stage Task loss: {}'.format(task_base_list.mean()))
+    print('DFL Task loss: {}'.format(task_task_list.mean()))
 
 if __name__=='__main__':
     main()

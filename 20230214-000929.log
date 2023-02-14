@@ -1,0 +1,1514 @@
+14-Feb-23 00:09:29 - so-ebm.py
+14-Feb-23 00:09:29 - learning rate: 0.0001
+14-Feb-23 00:10:01 - 0-th run
+14-Feb-23 00:10:21 - Training time for this epoch: 0.069
+14-Feb-23 00:10:21 - epoch: 0, training_loss: 58.594, time:0.069
+14-Feb-23 00:10:37 - epoch: 0, training task loss: 3.2450536938777006, test loss : 4.387921098838958, val loss: 3.208551274855984
+14-Feb-23 00:10:37 - Training time for this epoch: 0.082
+14-Feb-23 00:10:37 - epoch: 1, training_loss: -0.517, time:0.083
+14-Feb-23 00:10:53 - epoch: 1, training task loss: 3.1156837440350063, test loss : 4.237487863713751, val loss: 3.074279192099187
+14-Feb-23 00:10:53 - Training time for this epoch: 0.067
+14-Feb-23 00:10:53 - epoch: 2, training_loss: -0.375, time:0.068
+14-Feb-23 00:11:09 - epoch: 2, training task loss: 3.0333955630943406, test loss : 4.140635883785295, val loss: 2.98647311759992
+14-Feb-23 00:11:09 - Training time for this epoch: 0.068
+14-Feb-23 00:11:09 - epoch: 3, training_loss: -0.251, time:0.069
+14-Feb-23 00:11:28 - epoch: 3, training task loss: 2.9733091336125845, test loss : 4.0710829574532745, val loss: 2.921099175522678
+14-Feb-23 00:11:28 - Training time for this epoch: 0.070
+14-Feb-23 00:11:28 - epoch: 4, training_loss: -0.195, time:0.070
+14-Feb-23 00:11:44 - epoch: 4, training task loss: 2.9309046827365, test loss : 4.022964045814762, val loss: 2.8733869633314115
+14-Feb-23 00:11:44 - Training time for this epoch: 0.079
+14-Feb-23 00:11:44 - epoch: 5, training_loss: -0.158, time:0.079
+14-Feb-23 00:12:02 - epoch: 5, training task loss: 2.895026824084302, test loss : 3.987002174191022, val loss: 2.832870814357412
+14-Feb-23 00:12:02 - Training time for this epoch: 0.077
+14-Feb-23 00:12:02 - epoch: 6, training_loss: -0.120, time:0.077
+14-Feb-23 00:12:18 - epoch: 6, training task loss: 2.868228720556057, test loss : 3.961864554461302, val loss: 2.802810751147673
+14-Feb-23 00:12:18 - Training time for this epoch: 0.091
+14-Feb-23 00:12:18 - epoch: 7, training_loss: -0.091, time:0.091
+14-Feb-23 00:12:34 - epoch: 7, training task loss: 2.847711625343842, test loss : 3.9426897481583096, val loss: 2.779220869040536
+14-Feb-23 00:12:34 - Training time for this epoch: 0.086
+14-Feb-23 00:12:34 - epoch: 8, training_loss: -0.101, time:0.087
+14-Feb-23 00:12:49 - epoch: 8, training task loss: 2.828349394103478, test loss : 3.9275599639216523, val loss: 2.756525191300156
+14-Feb-23 00:12:50 - Training time for this epoch: 0.070
+14-Feb-23 00:12:50 - epoch: 9, training_loss: -0.071, time:0.071
+14-Feb-23 00:13:05 - epoch: 9, training task loss: 2.813129562809147, test loss : 3.9161935970928736, val loss: 2.7383286489740835
+14-Feb-23 00:13:05 - Training time for this epoch: 0.098
+14-Feb-23 00:13:05 - epoch: 10, training_loss: -0.056, time:0.099
+14-Feb-23 00:13:21 - epoch: 10, training task loss: 2.800678404258544, test loss : 3.90776382489011, val loss: 2.723429809502159
+14-Feb-23 00:13:21 - Training time for this epoch: 0.132
+14-Feb-23 00:13:21 - epoch: 11, training_loss: -0.059, time:0.133
+14-Feb-23 00:13:36 - epoch: 11, training task loss: 2.789114243419355, test loss : 3.90290390833357, val loss: 2.7093107828792515
+14-Feb-23 00:13:36 - Training time for this epoch: 0.076
+14-Feb-23 00:13:36 - epoch: 12, training_loss: -0.058, time:0.077
+14-Feb-23 00:13:52 - epoch: 12, training task loss: 2.778349120770987, test loss : 3.899188969601064, val loss: 2.696306949073989
+14-Feb-23 00:13:52 - Training time for this epoch: 0.070
+14-Feb-23 00:13:52 - epoch: 13, training_loss: -0.047, time:0.071
+14-Feb-23 00:14:07 - epoch: 13, training task loss: 2.7698279659257867, test loss : 3.897345159479697, val loss: 2.6857341387640137
+14-Feb-23 00:14:07 - Training time for this epoch: 0.070
+14-Feb-23 00:14:07 - epoch: 14, training_loss: -0.045, time:0.070
+14-Feb-23 00:14:23 - epoch: 14, training task loss: 2.76223933190576, test loss : 3.8949645487109756, val loss: 2.6761637443445077
+14-Feb-23 00:14:23 - Training time for this epoch: 0.091
+14-Feb-23 00:14:23 - epoch: 15, training_loss: -0.034, time:0.091
+14-Feb-23 00:14:39 - epoch: 15, training task loss: 2.755650387882702, test loss : 3.892670251998764, val loss: 2.6678761558972313
+14-Feb-23 00:14:39 - Training time for this epoch: 0.097
+14-Feb-23 00:14:39 - epoch: 16, training_loss: -0.042, time:0.097
+14-Feb-23 00:14:57 - epoch: 16, training task loss: 2.749165535985908, test loss : 3.891889764716169, val loss: 2.659849873133461
+14-Feb-23 00:14:57 - Training time for this epoch: 0.075
+14-Feb-23 00:14:57 - epoch: 17, training_loss: -0.023, time:0.075
+14-Feb-23 00:15:12 - epoch: 17, training task loss: 2.744624437028242, test loss : 3.891828720554172, val loss: 2.6536774614831566
+14-Feb-23 00:15:13 - Training time for this epoch: 0.088
+14-Feb-23 00:15:13 - epoch: 18, training_loss: -0.005, time:0.088
+14-Feb-23 00:15:28 - epoch: 18, training task loss: 2.7426081615894176, test loss : 3.891229159715819, val loss: 2.6508392185833034
+14-Feb-23 00:15:28 - Training time for this epoch: 0.076
+14-Feb-23 00:15:28 - epoch: 19, training_loss: -0.024, time:0.076
+14-Feb-23 00:15:46 - epoch: 19, training task loss: 2.7391263313940226, test loss : 3.892056287048504, val loss: 2.6465469209437917
+14-Feb-23 00:15:46 - Training time for this epoch: 0.081
+14-Feb-23 00:15:46 - epoch: 20, training_loss: -0.018, time:0.082
+14-Feb-23 00:16:02 - epoch: 20, training task loss: 2.7354288627875767, test loss : 3.8930777574086295, val loss: 2.6419374490000553
+14-Feb-23 00:16:02 - Training time for this epoch: 0.072
+14-Feb-23 00:16:02 - epoch: 21, training_loss: -0.017, time:0.073
+14-Feb-23 00:16:18 - epoch: 21, training task loss: 2.7328358067739584, test loss : 3.894535940730523, val loss: 2.638522013148251
+14-Feb-23 00:16:18 - Training time for this epoch: 0.075
+14-Feb-23 00:16:18 - epoch: 22, training_loss: -0.018, time:0.076
+14-Feb-23 00:16:34 - epoch: 22, training task loss: 2.7302751548948203, test loss : 3.895817775733737, val loss: 2.6353331744828195
+14-Feb-23 00:16:34 - Training time for this epoch: 0.068
+14-Feb-23 00:16:34 - epoch: 23, training_loss: -0.025, time:0.069
+14-Feb-23 00:16:50 - epoch: 23, training task loss: 2.7277738350149137, test loss : 3.896130544896371, val loss: 2.632094182814922
+14-Feb-23 00:16:50 - Training time for this epoch: 0.069
+14-Feb-23 00:16:50 - epoch: 24, training_loss: -0.026, time:0.069
+14-Feb-23 00:17:06 - epoch: 24, training task loss: 2.724685322448229, test loss : 3.8965734461642625, val loss: 2.6285871863137076
+14-Feb-23 00:17:06 - Training time for this epoch: 0.075
+14-Feb-23 00:17:06 - epoch: 25, training_loss: -0.021, time:0.076
+14-Feb-23 00:17:22 - epoch: 25, training task loss: 2.722325661925987, test loss : 3.8986612801661837, val loss: 2.624975027794274
+14-Feb-23 00:17:22 - Training time for this epoch: 0.068
+14-Feb-23 00:17:22 - epoch: 26, training_loss: 0.002, time:0.069
+14-Feb-23 00:17:38 - epoch: 26, training task loss: 2.720886459827665, test loss : 3.8995139879725307, val loss: 2.6232895503104237
+14-Feb-23 00:17:38 - Training time for this epoch: 0.068
+14-Feb-23 00:17:38 - epoch: 27, training_loss: 0.002, time:0.069
+14-Feb-23 00:17:53 - epoch: 27, training task loss: 2.7202319863467257, test loss : 3.898386845049993, val loss: 2.6229565789880427
+14-Feb-23 00:17:53 - Training time for this epoch: 0.089
+14-Feb-23 00:17:53 - epoch: 28, training_loss: -0.003, time:0.090
+14-Feb-23 00:18:11 - epoch: 28, training task loss: 2.7185244289303663, test loss : 3.8993273742706895, val loss: 2.6209163493393985
+14-Feb-23 00:18:11 - Training time for this epoch: 0.074
+14-Feb-23 00:18:11 - epoch: 29, training_loss: 0.002, time:0.074
+14-Feb-23 00:18:27 - epoch: 29, training task loss: 2.7177663330117685, test loss : 3.898964836939733, val loss: 2.6200422924443036
+14-Feb-23 00:18:27 - Training time for this epoch: 0.075
+14-Feb-23 00:18:27 - epoch: 30, training_loss: -0.005, time:0.076
+14-Feb-23 00:18:45 - epoch: 30, training task loss: 2.716645929243279, test loss : 3.900284665343353, val loss: 2.6180942810548955
+14-Feb-23 00:18:45 - Training time for this epoch: 0.070
+14-Feb-23 00:18:45 - epoch: 31, training_loss: -0.006, time:0.071
+14-Feb-23 00:19:00 - epoch: 31, training task loss: 2.715503933252173, test loss : 3.9012447359794473, val loss: 2.616657175664534
+14-Feb-23 00:19:00 - Training time for this epoch: 0.071
+14-Feb-23 00:19:00 - epoch: 32, training_loss: 0.008, time:0.072
+14-Feb-23 00:19:16 - epoch: 32, training task loss: 2.7155227343548543, test loss : 3.902404241029669, val loss: 2.6164265093244388
+14-Feb-23 00:19:16 - Training time for this epoch: 0.072
+14-Feb-23 00:19:16 - epoch: 33, training_loss: -0.010, time:0.073
+14-Feb-23 00:19:32 - epoch: 33, training task loss: 2.7163348383606962, test loss : 3.903494819360912, val loss: 2.616943054747274
+14-Feb-23 00:19:32 - Training time for this epoch: 0.068
+14-Feb-23 00:19:32 - epoch: 34, training_loss: 0.003, time:0.069
+14-Feb-23 00:19:48 - epoch: 34, training task loss: 2.7152541444674814, test loss : 3.901509174840184, val loss: 2.6163435221990974
+14-Feb-23 00:19:48 - Training time for this epoch: 0.067
+14-Feb-23 00:19:48 - epoch: 35, training_loss: -0.013, time:0.067
+14-Feb-23 00:20:04 - epoch: 35, training task loss: 2.7146516528371136, test loss : 3.9002373108317583, val loss: 2.615925141373655
+14-Feb-23 00:20:04 - Training time for this epoch: 0.107
+14-Feb-23 00:20:04 - epoch: 36, training_loss: 0.010, time:0.108
+14-Feb-23 00:20:20 - epoch: 36, training task loss: 2.7160817327951823, test loss : 3.8979786310194746, val loss: 2.6176051498204966
+14-Feb-23 00:20:20 - Training time for this epoch: 0.073
+14-Feb-23 00:20:20 - epoch: 37, training_loss: 0.007, time:0.073
+14-Feb-23 00:20:36 - epoch: 37, training task loss: 2.7170151651188705, test loss : 3.8975094472900405, val loss: 2.618681695943376
+14-Feb-23 00:20:36 - Training time for this epoch: 0.071
+14-Feb-23 00:20:36 - epoch: 38, training_loss: -0.011, time:0.072
+14-Feb-23 00:20:51 - epoch: 38, training task loss: 2.7159888215949075, test loss : 3.898723205260334, val loss: 2.6171477188076935
+14-Feb-23 00:20:51 - Training time for this epoch: 0.071
+14-Feb-23 00:20:51 - epoch: 39, training_loss: 0.014, time:0.072
+14-Feb-23 00:21:08 - epoch: 39, training task loss: 2.71625084629562, test loss : 3.899090217008379, val loss: 2.617333571617183
+14-Feb-23 00:21:08 - Training time for this epoch: 0.074
+14-Feb-23 00:21:08 - epoch: 40, training_loss: -0.006, time:0.075
+14-Feb-23 00:21:24 - epoch: 40, training task loss: 2.71573799471887, test loss : 3.9005366618616435, val loss: 2.6163338005246772
+14-Feb-23 00:21:24 - Training time for this epoch: 0.060
+14-Feb-23 00:21:24 - epoch: 41, training_loss: -0.014, time:0.060
+14-Feb-23 00:21:40 - epoch: 41, training task loss: 2.714762906033548, test loss : 3.9021664226006667, val loss: 2.6150776854650752
+14-Feb-23 00:21:40 - Training time for this epoch: 0.070
+14-Feb-23 00:21:40 - epoch: 42, training_loss: -0.000, time:0.071
+14-Feb-23 00:21:56 - epoch: 42, training task loss: 2.71447261891038, test loss : 3.902179359782309, val loss: 2.6146745454587186
+14-Feb-23 00:21:57 - Training time for this epoch: 0.083
+14-Feb-23 00:21:57 - epoch: 43, training_loss: -0.014, time:0.084
+14-Feb-23 00:22:12 - epoch: 43, training task loss: 2.713307335231965, test loss : 3.902866430070819, val loss: 2.613508827831625
+14-Feb-23 00:22:12 - Training time for this epoch: 0.115
+14-Feb-23 00:22:12 - epoch: 44, training_loss: -0.009, time:0.115
+14-Feb-23 00:22:29 - epoch: 44, training task loss: 2.711652630530879, test loss : 3.9024759015030304, val loss: 2.6120621297634505
+14-Feb-23 00:22:29 - Training time for this epoch: 0.073
+14-Feb-23 00:22:29 - epoch: 45, training_loss: -0.001, time:0.075
+14-Feb-23 00:22:44 - epoch: 45, training task loss: 2.7120971906982057, test loss : 3.9022191280538134, val loss: 2.612457633264143
+14-Feb-23 00:22:44 - Training time for this epoch: 0.088
+14-Feb-23 00:22:44 - epoch: 46, training_loss: -0.012, time:0.089
+14-Feb-23 00:23:00 - epoch: 46, training task loss: 2.711662596978507, test loss : 3.9020739413783136, val loss: 2.6119657063116977
+14-Feb-23 00:23:00 - Training time for this epoch: 0.067
+14-Feb-23 00:23:00 - epoch: 47, training_loss: 0.010, time:0.068
+14-Feb-23 00:23:16 - epoch: 47, training task loss: 2.712076678227519, test loss : 3.902569711842233, val loss: 2.6123123403355546
+14-Feb-23 00:23:16 - Training time for this epoch: 0.075
+14-Feb-23 00:23:16 - epoch: 48, training_loss: -0.018, time:0.075
+14-Feb-23 00:23:31 - epoch: 48, training task loss: 2.710293615257128, test loss : 3.9037202385212106, val loss: 2.6101552141784623
+14-Feb-23 00:23:31 - Training time for this epoch: 0.080
+14-Feb-23 00:23:31 - epoch: 49, training_loss: -0.012, time:0.080
+14-Feb-23 00:23:47 - epoch: 49, training task loss: 2.708983276570243, test loss : 3.9024123271223967, val loss: 2.609251518114603
+14-Feb-23 00:23:47 - 1-th run
+14-Feb-23 00:24:10 - Training time for this epoch: 0.070
+14-Feb-23 00:24:10 - epoch: 0, training_loss: 52.692, time:0.071
+14-Feb-23 00:24:25 - epoch: 0, training task loss: 2.9390119005269177, test loss : 3.740806882029852, val loss: 2.9072924731469345
+14-Feb-23 00:24:25 - Training time for this epoch: 0.076
+14-Feb-23 00:24:25 - epoch: 1, training_loss: -0.513, time:0.077
+14-Feb-23 00:24:46 - epoch: 1, training task loss: 2.8521034645572048, test loss : 3.6723963058265072, val loss: 2.823837675985268
+14-Feb-23 00:24:46 - Training time for this epoch: 0.100
+14-Feb-23 00:24:46 - epoch: 2, training_loss: -0.308, time:0.100
+14-Feb-23 00:25:07 - epoch: 2, training task loss: 2.790390507574598, test loss : 3.6418647814744993, val loss: 2.761328524631903
+14-Feb-23 00:25:07 - Training time for this epoch: 0.081
+14-Feb-23 00:25:07 - epoch: 3, training_loss: -0.201, time:0.082
+14-Feb-23 00:25:38 - epoch: 3, training task loss: 2.7491213973127238, test loss : 3.630756950058248, val loss: 2.721128890503943
+14-Feb-23 00:25:38 - Training time for this epoch: 0.070
+14-Feb-23 00:25:38 - epoch: 4, training_loss: -0.165, time:0.071
+14-Feb-23 00:25:55 - epoch: 4, training task loss: 2.718436430362046, test loss : 3.6317882430878208, val loss: 2.6924903858121043
+14-Feb-23 00:25:55 - Training time for this epoch: 0.078
+14-Feb-23 00:25:55 - epoch: 5, training_loss: -0.150, time:0.078
+14-Feb-23 00:26:14 - epoch: 5, training task loss: 2.6941850625106887, test loss : 3.638479647307238, val loss: 2.6692187834563392
+14-Feb-23 00:26:14 - Training time for this epoch: 0.094
+14-Feb-23 00:26:14 - epoch: 6, training_loss: -0.114, time:0.097
+14-Feb-23 00:26:30 - epoch: 6, training task loss: 2.675418191045621, test loss : 3.651044566877575, val loss: 2.6502954602420674
+14-Feb-23 00:26:30 - Training time for this epoch: 0.063
+14-Feb-23 00:26:30 - epoch: 7, training_loss: -0.093, time:0.063
+14-Feb-23 00:26:58 - epoch: 7, training task loss: 2.6589333468268563, test loss : 3.6728244182768788, val loss: 2.635625130487975
+14-Feb-23 00:26:59 - Training time for this epoch: 0.068
+14-Feb-23 00:26:59 - epoch: 8, training_loss: -0.103, time:0.069
+14-Feb-23 00:27:14 - epoch: 8, training task loss: 2.645728872001078, test loss : 3.694801901347554, val loss: 2.6237819574710617
+14-Feb-23 00:27:15 - Training time for this epoch: 0.070
+14-Feb-23 00:27:15 - epoch: 9, training_loss: -0.079, time:0.072
+14-Feb-23 00:27:33 - epoch: 9, training task loss: 2.6338913770323726, test loss : 3.721851504561305, val loss: 2.613655644438844
+14-Feb-23 00:27:33 - Training time for this epoch: 0.070
+14-Feb-23 00:27:33 - epoch: 10, training_loss: -0.063, time:0.071
+14-Feb-23 00:27:55 - epoch: 10, training task loss: 2.625970139797559, test loss : 3.744722185491854, val loss: 2.607647780608496
+14-Feb-23 00:27:56 - Training time for this epoch: 0.070
+14-Feb-23 00:27:56 - epoch: 11, training_loss: -0.043, time:0.071
+14-Feb-23 00:28:26 - epoch: 11, training task loss: 2.621185062613355, test loss : 3.766510075288683, val loss: 2.604728701947568
+14-Feb-23 00:28:26 - Training time for this epoch: 0.075
+14-Feb-23 00:28:26 - epoch: 12, training_loss: -0.041, time:0.075
+14-Feb-23 00:28:57 - epoch: 12, training task loss: 2.617620726691529, test loss : 3.7904358534982734, val loss: 2.6029087894996032
+14-Feb-23 00:28:57 - Training time for this epoch: 0.076
+14-Feb-23 00:28:57 - epoch: 13, training_loss: -0.047, time:0.076
+14-Feb-23 00:29:12 - epoch: 13, training task loss: 2.614875438101187, test loss : 3.812156961790146, val loss: 2.601561397477505
+14-Feb-23 00:29:13 - Training time for this epoch: 0.087
+14-Feb-23 00:29:13 - epoch: 14, training_loss: -0.039, time:0.087
+14-Feb-23 00:29:37 - epoch: 14, training task loss: 2.6119709420586683, test loss : 3.8370967653392247, val loss: 2.6011131530181135
+14-Feb-23 00:29:37 - Training time for this epoch: 0.069
+14-Feb-23 00:29:37 - epoch: 15, training_loss: -0.039, time:0.069
+14-Feb-23 00:30:08 - epoch: 15, training task loss: 2.610984442822478, test loss : 3.85881245403384, val loss: 2.602209534549294
+14-Feb-23 00:30:08 - Training time for this epoch: 0.072
+14-Feb-23 00:30:08 - epoch: 16, training_loss: -0.047, time:0.072
+14-Feb-23 00:30:37 - epoch: 16, training task loss: 2.608446408985902, test loss : 3.8809847987132238, val loss: 2.6020681708825286
+14-Feb-23 00:30:37 - Training time for this epoch: 0.066
+14-Feb-23 00:30:37 - epoch: 17, training_loss: -0.032, time:0.066
+14-Feb-23 00:30:58 - epoch: 17, training task loss: 2.607402005742613, test loss : 3.9028969650503242, val loss: 2.6038424956841673
+14-Feb-23 00:30:58 - Training time for this epoch: 0.073
+14-Feb-23 00:30:58 - epoch: 18, training_loss: -0.032, time:0.074
+14-Feb-23 00:31:18 - epoch: 18, training task loss: 2.6065016804285523, test loss : 3.9172476804853753, val loss: 2.604798489202028
+14-Feb-23 00:31:18 - Training time for this epoch: 0.069
+14-Feb-23 00:31:18 - epoch: 19, training_loss: -0.021, time:0.069
+14-Feb-23 00:31:37 - epoch: 19, training task loss: 2.6061439245069424, test loss : 3.929762545433565, val loss: 2.6059231803506706
+14-Feb-23 00:31:37 - Training time for this epoch: 0.071
+14-Feb-23 00:31:37 - epoch: 20, training_loss: -0.021, time:0.071
+14-Feb-23 00:32:08 - epoch: 20, training task loss: 2.6063143404954565, test loss : 3.952736310500274, val loss: 2.6084296217263034
+14-Feb-23 00:32:08 - Training time for this epoch: 0.080
+14-Feb-23 00:32:08 - epoch: 21, training_loss: -0.013, time:0.081
+14-Feb-23 00:32:29 - epoch: 21, training task loss: 2.6055176998546967, test loss : 3.959914139893028, val loss: 2.609465974627199
+14-Feb-23 00:32:29 - Training time for this epoch: 0.078
+14-Feb-23 00:32:29 - epoch: 22, training_loss: -0.017, time:0.078
+14-Feb-23 00:33:00 - epoch: 22, training task loss: 2.6041255416356015, test loss : 3.969955685793923, val loss: 2.6102558023867886
+14-Feb-23 00:33:00 - Training time for this epoch: 0.090
+14-Feb-23 00:33:00 - epoch: 23, training_loss: -0.015, time:0.091
+14-Feb-23 00:33:31 - epoch: 23, training task loss: 2.603387613149274, test loss : 3.985005354608561, val loss: 2.6119007305265467
+14-Feb-23 00:33:32 - Training time for this epoch: 0.082
+14-Feb-23 00:33:32 - epoch: 24, training_loss: -0.031, time:0.083
+14-Feb-23 00:33:56 - epoch: 24, training task loss: 2.604083926011173, test loss : 4.001005621296749, val loss: 2.6146147666822803
+14-Feb-23 00:33:56 - Training time for this epoch: 0.076
+14-Feb-23 00:33:56 - epoch: 25, training_loss: 0.008, time:0.076
+14-Feb-23 00:34:12 - epoch: 25, training task loss: 2.6035496638788183, test loss : 4.003511319259073, val loss: 2.6139677315579353
+14-Feb-23 00:34:12 - Training time for this epoch: 0.071
+14-Feb-23 00:34:12 - epoch: 26, training_loss: -0.004, time:0.072
+14-Feb-23 00:34:45 - epoch: 26, training task loss: 2.604290031399596, test loss : 4.009828213120672, val loss: 2.6160128818370936
+14-Feb-23 00:34:45 - Training time for this epoch: 0.094
+14-Feb-23 00:34:45 - epoch: 27, training_loss: -0.017, time:0.094
+14-Feb-23 00:35:16 - epoch: 27, training task loss: 2.6042838089876925, test loss : 4.022823225157291, val loss: 2.6175947591332394
+14-Feb-23 00:35:16 - Training time for this epoch: 0.064
+14-Feb-23 00:35:16 - epoch: 28, training_loss: -0.017, time:0.065
+14-Feb-23 00:35:48 - epoch: 28, training task loss: 2.6050672071338288, test loss : 4.0321445720219256, val loss: 2.618672137202143
+14-Feb-23 00:35:48 - Training time for this epoch: 0.069
+14-Feb-23 00:35:48 - epoch: 29, training_loss: -0.003, time:0.070
+14-Feb-23 00:36:19 - epoch: 29, training task loss: 2.605914964380596, test loss : 4.035627152996158, val loss: 2.6202359889055975
+14-Feb-23 00:36:19 - Training time for this epoch: 0.070
+14-Feb-23 00:36:19 - epoch: 30, training_loss: -0.019, time:0.070
+14-Feb-23 00:36:43 - epoch: 30, training task loss: 2.6057387949950086, test loss : 4.044978469808623, val loss: 2.620743608263551
+14-Feb-23 00:36:43 - Training time for this epoch: 0.061
+14-Feb-23 00:36:43 - epoch: 31, training_loss: -0.017, time:0.061
+14-Feb-23 00:37:07 - epoch: 31, training task loss: 2.6065622098858077, test loss : 4.059195739338874, val loss: 2.6227978298278902
+14-Feb-23 00:37:07 - Training time for this epoch: 0.069
+14-Feb-23 00:37:07 - epoch: 32, training_loss: 0.001, time:0.070
+14-Feb-23 00:37:39 - epoch: 32, training task loss: 2.607235029695105, test loss : 4.065315143126136, val loss: 2.624267575852773
+14-Feb-23 00:37:39 - Training time for this epoch: 0.074
+14-Feb-23 00:37:39 - epoch: 33, training_loss: 0.001, time:0.074
+14-Feb-23 00:37:59 - epoch: 33, training task loss: 2.6071883647004466, test loss : 4.065120190481089, val loss: 2.624298844297858
+14-Feb-23 00:37:59 - Training time for this epoch: 0.078
+14-Feb-23 00:37:59 - epoch: 34, training_loss: 0.004, time:0.078
+14-Feb-23 00:38:30 - epoch: 34, training task loss: 2.6073462447327174, test loss : 4.06875202102676, val loss: 2.6243900398592714
+14-Feb-23 00:38:30 - Training time for this epoch: 0.071
+14-Feb-23 00:38:30 - epoch: 35, training_loss: 0.007, time:0.071
+14-Feb-23 00:39:01 - epoch: 35, training task loss: 2.6075847591230996, test loss : 4.0668169091768736, val loss: 2.6246406807971416
+14-Feb-23 00:39:01 - Training time for this epoch: 0.069
+14-Feb-23 00:39:01 - epoch: 36, training_loss: -0.003, time:0.069
+14-Feb-23 00:39:31 - epoch: 36, training task loss: 2.608742860153831, test loss : 4.068067769705133, val loss: 2.6256592850361855
+14-Feb-23 00:39:31 - Training time for this epoch: 0.090
+14-Feb-23 00:39:31 - epoch: 37, training_loss: -0.000, time:0.091
+14-Feb-23 00:39:51 - epoch: 37, training task loss: 2.607951808697244, test loss : 4.068943645272194, val loss: 2.624811087490282
+14-Feb-23 00:39:51 - Training time for this epoch: 0.067
+14-Feb-23 00:39:51 - epoch: 38, training_loss: -0.006, time:0.068
+14-Feb-23 00:40:22 - epoch: 38, training task loss: 2.608970408125211, test loss : 4.073679200312918, val loss: 2.6267188253647658
+14-Feb-23 00:40:22 - Training time for this epoch: 0.074
+14-Feb-23 00:40:22 - epoch: 39, training_loss: -0.001, time:0.074
+14-Feb-23 00:40:52 - epoch: 39, training task loss: 2.608314349431587, test loss : 4.075298341987222, val loss: 2.6268993813033603
+14-Feb-23 00:40:52 - Training time for this epoch: 0.067
+14-Feb-23 00:40:52 - epoch: 40, training_loss: -0.024, time:0.067
+14-Feb-23 00:41:22 - epoch: 40, training task loss: 2.609334884672294, test loss : 4.083772575082161, val loss: 2.627651786414724
+14-Feb-23 00:41:22 - Training time for this epoch: 0.071
+14-Feb-23 00:41:22 - epoch: 41, training_loss: 0.019, time:0.071
+14-Feb-23 00:41:53 - epoch: 41, training task loss: 2.607892552643912, test loss : 4.0762647858493635, val loss: 2.6260441203014357
+14-Feb-23 00:41:53 - Training time for this epoch: 0.084
+14-Feb-23 00:41:53 - epoch: 42, training_loss: 0.003, time:0.085
+14-Feb-23 00:42:14 - epoch: 42, training task loss: 2.609281903555407, test loss : 4.078863745442202, val loss: 2.627188345288528
+14-Feb-23 00:42:14 - Training time for this epoch: 0.069
+14-Feb-23 00:42:14 - epoch: 43, training_loss: 0.003, time:0.069
+14-Feb-23 00:42:44 - epoch: 43, training task loss: 2.6085964499188017, test loss : 4.072716442207893, val loss: 2.625407831486503
+14-Feb-23 00:42:45 - Training time for this epoch: 0.084
+14-Feb-23 00:42:45 - epoch: 44, training_loss: -0.003, time:0.084
+14-Feb-23 00:43:15 - epoch: 44, training task loss: 2.6095680936618777, test loss : 4.077433777150074, val loss: 2.62650938697529
+14-Feb-23 00:43:15 - Training time for this epoch: 0.068
+14-Feb-23 00:43:15 - epoch: 45, training_loss: -0.009, time:0.068
+14-Feb-23 00:43:46 - epoch: 45, training task loss: 2.609484975714585, test loss : 4.076126908927264, val loss: 2.6260381679783498
+14-Feb-23 00:43:46 - Training time for this epoch: 0.077
+14-Feb-23 00:43:46 - epoch: 46, training_loss: 0.009, time:0.078
+14-Feb-23 00:44:17 - epoch: 46, training task loss: 2.6101284848834876, test loss : 4.075618442158012, val loss: 2.6263518048160117
+14-Feb-23 00:44:17 - Training time for this epoch: 0.073
+14-Feb-23 00:44:17 - epoch: 47, training_loss: 0.011, time:0.074
+14-Feb-23 00:44:49 - epoch: 47, training task loss: 2.6098929424770363, test loss : 4.067933466599324, val loss: 2.624089986045029
+14-Feb-23 00:44:49 - Training time for this epoch: 0.072
+14-Feb-23 00:44:49 - epoch: 48, training_loss: 0.009, time:0.073
+14-Feb-23 00:45:08 - epoch: 48, training task loss: 2.611639111916925, test loss : 4.069574519032936, val loss: 2.6248751883015364
+14-Feb-23 00:45:08 - Training time for this epoch: 0.072
+14-Feb-23 00:45:08 - epoch: 49, training_loss: -0.003, time:0.073
+14-Feb-23 00:45:39 - epoch: 49, training task loss: 2.6116957150610753, test loss : 4.071768298020492, val loss: 2.6245596544420264
+14-Feb-23 00:45:39 - 2-th run
+14-Feb-23 00:45:55 - Training time for this epoch: 0.062
+14-Feb-23 00:45:55 - epoch: 0, training_loss: 59.650, time:0.062
+14-Feb-23 00:46:11 - epoch: 0, training task loss: 3.175147679930205, test loss : 4.4204073456921416, val loss: 3.1547176079554666
+14-Feb-23 00:46:11 - Training time for this epoch: 0.070
+14-Feb-23 00:46:11 - epoch: 1, training_loss: -0.352, time:0.070
+14-Feb-23 00:46:26 - epoch: 1, training task loss: 3.0763116826237304, test loss : 4.196330029757993, val loss: 3.0443058131288474
+14-Feb-23 00:46:26 - Training time for this epoch: 0.068
+14-Feb-23 00:46:26 - epoch: 2, training_loss: -0.286, time:0.069
+14-Feb-23 00:46:43 - epoch: 2, training task loss: 3.0037319791555133, test loss : 4.060372985389719, val loss: 2.967086800263431
+14-Feb-23 00:46:43 - Training time for this epoch: 0.073
+14-Feb-23 00:46:43 - epoch: 3, training_loss: -0.204, time:0.073
+14-Feb-23 00:46:59 - epoch: 3, training task loss: 2.949306742884273, test loss : 3.970807049585668, val loss: 2.91255986054644
+14-Feb-23 00:46:59 - Training time for this epoch: 0.068
+14-Feb-23 00:46:59 - epoch: 4, training_loss: -0.183, time:0.068
+14-Feb-23 00:47:15 - epoch: 4, training task loss: 2.904887631735269, test loss : 3.9053272072599277, val loss: 2.869940512920324
+14-Feb-23 00:47:15 - Training time for this epoch: 0.084
+14-Feb-23 00:47:15 - epoch: 5, training_loss: -0.144, time:0.085
+14-Feb-23 00:47:31 - epoch: 5, training task loss: 2.868578453752754, test loss : 3.858932083305131, val loss: 2.835227176167415
+14-Feb-23 00:47:31 - Training time for this epoch: 0.088
+14-Feb-23 00:47:31 - epoch: 6, training_loss: -0.133, time:0.090
+14-Feb-23 00:47:47 - epoch: 6, training task loss: 2.837861125378318, test loss : 3.825889041741142, val loss: 2.8060583538367005
+14-Feb-23 00:47:47 - Training time for this epoch: 0.090
+14-Feb-23 00:47:47 - epoch: 7, training_loss: -0.113, time:0.091
+14-Feb-23 00:48:02 - epoch: 7, training task loss: 2.808973101096277, test loss : 3.799877371203422, val loss: 2.7793162438021763
+14-Feb-23 00:48:02 - Training time for this epoch: 0.072
+14-Feb-23 00:48:02 - epoch: 8, training_loss: -0.096, time:0.072
+14-Feb-23 00:48:18 - epoch: 8, training task loss: 2.7865075993054083, test loss : 3.7849250333053597, val loss: 2.7580570986341453
+14-Feb-23 00:48:18 - Training time for this epoch: 0.090
+14-Feb-23 00:48:18 - epoch: 9, training_loss: -0.094, time:0.091
+14-Feb-23 00:48:35 - epoch: 9, training task loss: 2.766199173415651, test loss : 3.773462840607227, val loss: 2.738675823460885
+14-Feb-23 00:48:35 - Training time for this epoch: 0.114
+14-Feb-23 00:48:35 - epoch: 10, training_loss: -0.064, time:0.115
+14-Feb-23 00:48:53 - epoch: 10, training task loss: 2.7497953915738673, test loss : 3.765378628156152, val loss: 2.7226524716314167
+14-Feb-23 00:48:53 - Training time for this epoch: 0.078
+14-Feb-23 00:48:53 - epoch: 11, training_loss: -0.053, time:0.078
+14-Feb-23 00:49:09 - epoch: 11, training task loss: 2.733553257037459, test loss : 3.760138602876311, val loss: 2.706495414552087
+14-Feb-23 00:49:09 - Training time for this epoch: 0.103
+14-Feb-23 00:49:09 - epoch: 12, training_loss: -0.061, time:0.103
+14-Feb-23 00:49:26 - epoch: 12, training task loss: 2.7202653564617805, test loss : 3.7566881651448427, val loss: 2.6929836530736795
+14-Feb-23 00:49:26 - Training time for this epoch: 0.094
+14-Feb-23 00:49:26 - epoch: 13, training_loss: -0.046, time:0.094
+14-Feb-23 00:49:42 - epoch: 13, training task loss: 2.708526798679334, test loss : 3.7540222708063347, val loss: 2.681417459906604
+14-Feb-23 00:49:42 - Training time for this epoch: 0.081
+14-Feb-23 00:49:42 - epoch: 14, training_loss: -0.044, time:0.082
+14-Feb-23 00:49:57 - epoch: 14, training task loss: 2.699429570736947, test loss : 3.7516787103558276, val loss: 2.6726738743119816
+14-Feb-23 00:49:57 - Training time for this epoch: 0.072
+14-Feb-23 00:49:57 - epoch: 15, training_loss: -0.045, time:0.074
+14-Feb-23 00:50:13 - epoch: 15, training task loss: 2.6888387042106503, test loss : 3.751659380783606, val loss: 2.662534725227296
+14-Feb-23 00:50:13 - Training time for this epoch: 0.071
+14-Feb-23 00:50:13 - epoch: 16, training_loss: -0.046, time:0.071
+14-Feb-23 00:50:29 - epoch: 16, training task loss: 2.68003970489897, test loss : 3.753233809940194, val loss: 2.6536032343348417
+14-Feb-23 00:50:29 - Training time for this epoch: 0.069
+14-Feb-23 00:50:29 - epoch: 17, training_loss: -0.013, time:0.070
+14-Feb-23 00:50:45 - epoch: 17, training task loss: 2.6743354872060965, test loss : 3.7544802933330286, val loss: 2.6480954642854817
+14-Feb-23 00:50:45 - Training time for this epoch: 0.073
+14-Feb-23 00:50:45 - epoch: 18, training_loss: -0.026, time:0.073
+14-Feb-23 00:51:00 - epoch: 18, training task loss: 2.667495867894494, test loss : 3.758239183320715, val loss: 2.641059470511845
+14-Feb-23 00:51:00 - Training time for this epoch: 0.077
+14-Feb-23 00:51:00 - epoch: 19, training_loss: -0.003, time:0.078
+14-Feb-23 00:51:16 - epoch: 19, training task loss: 2.6639959706116594, test loss : 3.7583424555824214, val loss: 2.637654816161036
+14-Feb-23 00:51:16 - Training time for this epoch: 0.083
+14-Feb-23 00:51:16 - epoch: 20, training_loss: -0.015, time:0.083
+14-Feb-23 00:51:32 - epoch: 20, training task loss: 2.659716182418804, test loss : 3.759411560872996, val loss: 2.6336291488139567
+14-Feb-23 00:51:32 - Training time for this epoch: 0.081
+14-Feb-23 00:51:32 - epoch: 21, training_loss: -0.032, time:0.081
+14-Feb-23 00:51:48 - epoch: 21, training task loss: 2.6556702752159915, test loss : 3.7616597728600203, val loss: 2.629540764226219
+14-Feb-23 00:51:48 - Training time for this epoch: 0.074
+14-Feb-23 00:51:48 - epoch: 22, training_loss: 0.004, time:0.074
+14-Feb-23 00:52:04 - epoch: 22, training task loss: 2.6545455461022844, test loss : 3.7625418518099147, val loss: 2.6281239044225355
+14-Feb-23 00:52:04 - Training time for this epoch: 0.069
+14-Feb-23 00:52:04 - epoch: 23, training_loss: -0.011, time:0.069
+14-Feb-23 00:52:19 - epoch: 23, training task loss: 2.6507268537636524, test loss : 3.7645678993938354, val loss: 2.62421537212632
+14-Feb-23 00:52:19 - Training time for this epoch: 0.073
+14-Feb-23 00:52:19 - epoch: 24, training_loss: -0.007, time:0.074
+14-Feb-23 00:52:35 - epoch: 24, training task loss: 2.6493614382328636, test loss : 3.7654482921835477, val loss: 2.6228804582799907
+14-Feb-23 00:52:35 - Training time for this epoch: 0.075
+14-Feb-23 00:52:35 - epoch: 25, training_loss: -0.020, time:0.075
+14-Feb-23 00:52:52 - epoch: 25, training task loss: 2.647203848290225, test loss : 3.768574138764173, val loss: 2.620571272045047
+14-Feb-23 00:52:52 - Training time for this epoch: 0.075
+14-Feb-23 00:52:52 - epoch: 26, training_loss: -0.005, time:0.075
+14-Feb-23 00:53:08 - epoch: 26, training task loss: 2.6446797047547284, test loss : 3.7712691438588974, val loss: 2.61796485492783
+14-Feb-23 00:53:08 - Training time for this epoch: 0.069
+14-Feb-23 00:53:08 - epoch: 27, training_loss: -0.007, time:0.071
+14-Feb-23 00:53:23 - epoch: 27, training task loss: 2.6442370638410955, test loss : 3.77230512011501, val loss: 2.6175690793423803
+14-Feb-23 00:53:23 - Training time for this epoch: 0.069
+14-Feb-23 00:53:23 - epoch: 28, training_loss: -0.032, time:0.070
+14-Feb-23 00:53:39 - epoch: 28, training task loss: 2.6399122020656316, test loss : 3.7737532290785953, val loss: 2.613784499075841
+14-Feb-23 00:53:39 - Training time for this epoch: 0.111
+14-Feb-23 00:53:39 - epoch: 29, training_loss: -0.004, time:0.112
+14-Feb-23 00:53:55 - epoch: 29, training task loss: 2.6390932637327102, test loss : 3.774768061618733, val loss: 2.612778045035288
+14-Feb-23 00:53:55 - Training time for this epoch: 0.071
+14-Feb-23 00:53:55 - epoch: 30, training_loss: -0.012, time:0.071
+14-Feb-23 00:54:11 - epoch: 30, training task loss: 2.6365906646861457, test loss : 3.7780655812067785, val loss: 2.610175307392125
+14-Feb-23 00:54:11 - Training time for this epoch: 0.071
+14-Feb-23 00:54:11 - epoch: 31, training_loss: 0.006, time:0.073
+14-Feb-23 00:54:26 - epoch: 31, training task loss: 2.637367878746411, test loss : 3.7777445471636484, val loss: 2.6108417736901526
+14-Feb-23 00:54:26 - Training time for this epoch: 0.073
+14-Feb-23 00:54:26 - epoch: 32, training_loss: 0.006, time:0.074
+14-Feb-23 00:54:41 - epoch: 32, training task loss: 2.6369477481078336, test loss : 3.7787064720800494, val loss: 2.6101770202742465
+14-Feb-23 00:54:41 - Training time for this epoch: 0.063
+14-Feb-23 00:54:41 - epoch: 33, training_loss: -0.010, time:0.063
+14-Feb-23 00:54:57 - epoch: 33, training task loss: 2.635536196444032, test loss : 3.7803735131488354, val loss: 2.6088399148157246
+14-Feb-23 00:54:57 - Training time for this epoch: 0.074
+14-Feb-23 00:54:57 - epoch: 34, training_loss: -0.014, time:0.074
+14-Feb-23 00:55:13 - epoch: 34, training task loss: 2.633784168150232, test loss : 3.781865933750728, val loss: 2.607390806698065
+14-Feb-23 00:55:13 - Training time for this epoch: 0.071
+14-Feb-23 00:55:13 - epoch: 35, training_loss: -0.005, time:0.071
+14-Feb-23 00:55:28 - epoch: 35, training task loss: 2.6331023374026428, test loss : 3.7813985632410407, val loss: 2.6069001410854455
+14-Feb-23 00:55:28 - Training time for this epoch: 0.081
+14-Feb-23 00:55:28 - epoch: 36, training_loss: -0.008, time:0.081
+14-Feb-23 00:55:44 - epoch: 36, training task loss: 2.631295867608181, test loss : 3.7844584881537378, val loss: 2.6049586114022247
+14-Feb-23 00:55:44 - Training time for this epoch: 0.076
+14-Feb-23 00:55:44 - epoch: 37, training_loss: -0.006, time:0.077
+14-Feb-23 00:55:59 - epoch: 37, training task loss: 2.6313429246674005, test loss : 3.7835630527250705, val loss: 2.6053166384310122
+14-Feb-23 00:56:00 - Training time for this epoch: 0.072
+14-Feb-23 00:56:00 - epoch: 38, training_loss: 0.004, time:0.072
+14-Feb-23 00:56:15 - epoch: 38, training task loss: 2.6320686194303446, test loss : 3.78376902575682, val loss: 2.6056402404959194
+14-Feb-23 00:56:15 - Training time for this epoch: 0.075
+14-Feb-23 00:56:15 - epoch: 39, training_loss: -0.002, time:0.075
+14-Feb-23 00:56:31 - epoch: 39, training task loss: 2.6318772023824915, test loss : 3.783882029569069, val loss: 2.605507381418426
+14-Feb-23 00:56:31 - Training time for this epoch: 0.068
+14-Feb-23 00:56:31 - epoch: 40, training_loss: 0.008, time:0.068
+14-Feb-23 00:56:47 - epoch: 40, training task loss: 2.631342481568793, test loss : 3.7852457168017883, val loss: 2.6048299476548964
+14-Feb-23 00:56:47 - Training time for this epoch: 0.139
+14-Feb-23 00:56:47 - epoch: 41, training_loss: 0.006, time:0.139
+14-Feb-23 00:57:02 - epoch: 41, training task loss: 2.6312402009870555, test loss : 3.783998535329912, val loss: 2.6053325785498593
+14-Feb-23 00:57:03 - Training time for this epoch: 0.100
+14-Feb-23 00:57:03 - epoch: 42, training_loss: -0.020, time:0.103
+14-Feb-23 00:57:18 - epoch: 42, training task loss: 2.6295521400885673, test loss : 3.7859843410307015, val loss: 2.6040673184942076
+14-Feb-23 00:57:18 - Training time for this epoch: 0.073
+14-Feb-23 00:57:18 - epoch: 43, training_loss: -0.007, time:0.074
+14-Feb-23 00:57:33 - epoch: 43, training task loss: 2.6292121331468286, test loss : 3.786855209087325, val loss: 2.6037858897348567
+14-Feb-23 00:57:34 - Training time for this epoch: 0.069
+14-Feb-23 00:57:34 - epoch: 44, training_loss: -0.000, time:0.069
+14-Feb-23 00:57:49 - epoch: 44, training task loss: 2.6283228667671352, test loss : 3.787432616950414, val loss: 2.6030628709567867
+14-Feb-23 00:57:49 - Training time for this epoch: 0.072
+14-Feb-23 00:57:49 - epoch: 45, training_loss: -0.003, time:0.074
+14-Feb-23 00:58:04 - epoch: 45, training task loss: 2.628007938963008, test loss : 3.7874560343994337, val loss: 2.6027136415492667
+14-Feb-23 00:58:04 - Training time for this epoch: 0.072
+14-Feb-23 00:58:04 - epoch: 46, training_loss: 0.013, time:0.073
+14-Feb-23 00:58:20 - epoch: 46, training task loss: 2.6306710144490726, test loss : 3.7858650589362686, val loss: 2.604946455978687
+14-Feb-23 00:58:20 - Training time for this epoch: 0.073
+14-Feb-23 00:58:20 - epoch: 47, training_loss: 0.004, time:0.073
+14-Feb-23 00:58:35 - epoch: 47, training task loss: 2.628649723103947, test loss : 3.78556420295682, val loss: 2.603521297301763
+14-Feb-23 00:58:36 - Training time for this epoch: 0.068
+14-Feb-23 00:58:36 - epoch: 48, training_loss: -0.008, time:0.069
+14-Feb-23 00:58:51 - epoch: 48, training task loss: 2.6293967578669557, test loss : 3.78472810511243, val loss: 2.6042720531400025
+14-Feb-23 00:58:51 - Training time for this epoch: 0.072
+14-Feb-23 00:58:51 - epoch: 49, training_loss: 0.009, time:0.072
+14-Feb-23 00:59:07 - epoch: 49, training task loss: 2.6282682775892487, test loss : 3.784804060760473, val loss: 2.6031713076571927
+14-Feb-23 00:59:07 - 3-th run
+14-Feb-23 00:59:23 - Training time for this epoch: 0.084
+14-Feb-23 00:59:23 - epoch: 0, training_loss: 57.932, time:0.085
+14-Feb-23 00:59:39 - epoch: 0, training task loss: 3.1869927183961604, test loss : 4.4093260296511785, val loss: 3.179636686677667
+14-Feb-23 00:59:39 - Training time for this epoch: 0.068
+14-Feb-23 00:59:39 - epoch: 1, training_loss: -0.363, time:0.068
+14-Feb-23 00:59:55 - epoch: 1, training task loss: 3.075564531444933, test loss : 4.2157598998334205, val loss: 3.0588130529458053
+14-Feb-23 00:59:55 - Training time for this epoch: 0.070
+14-Feb-23 00:59:55 - epoch: 2, training_loss: -0.276, time:0.070
+14-Feb-23 01:00:11 - epoch: 2, training task loss: 2.991579590091182, test loss : 4.09662423031226, val loss: 2.9709807822303977
+14-Feb-23 01:00:11 - Training time for this epoch: 0.073
+14-Feb-23 01:00:11 - epoch: 3, training_loss: -0.240, time:0.073
+14-Feb-23 01:00:31 - epoch: 3, training task loss: 2.9289531043433334, test loss : 4.021663430513279, val loss: 2.908394692557752
+14-Feb-23 01:00:31 - Training time for this epoch: 0.088
+14-Feb-23 01:00:31 - epoch: 4, training_loss: -0.184, time:0.088
+14-Feb-23 01:00:47 - epoch: 4, training task loss: 2.877337174347166, test loss : 3.964776431117207, val loss: 2.857500862404641
+14-Feb-23 01:00:47 - Training time for this epoch: 0.073
+14-Feb-23 01:00:47 - epoch: 5, training_loss: -0.165, time:0.073
+14-Feb-23 01:01:02 - epoch: 5, training task loss: 2.8385741382904515, test loss : 3.9264663209127546, val loss: 2.8193925966077833
+14-Feb-23 01:01:02 - Training time for this epoch: 0.070
+14-Feb-23 01:01:02 - epoch: 6, training_loss: -0.127, time:0.071
+14-Feb-23 01:01:18 - epoch: 6, training task loss: 2.801809901640235, test loss : 3.8957613668187636, val loss: 2.784402968456527
+14-Feb-23 01:01:18 - Training time for this epoch: 0.069
+14-Feb-23 01:01:18 - epoch: 7, training_loss: -0.105, time:0.069
+14-Feb-23 01:01:34 - epoch: 7, training task loss: 2.7734204704429954, test loss : 3.874525838155251, val loss: 2.7579031410736765
+14-Feb-23 01:01:34 - Training time for this epoch: 0.070
+14-Feb-23 01:01:34 - epoch: 8, training_loss: -0.115, time:0.071
+14-Feb-23 01:01:50 - epoch: 8, training task loss: 2.751578598581244, test loss : 3.8588247786783056, val loss: 2.7379019588661
+14-Feb-23 01:01:50 - Training time for this epoch: 0.071
+14-Feb-23 01:01:50 - epoch: 9, training_loss: -0.084, time:0.072
+14-Feb-23 01:02:05 - epoch: 9, training task loss: 2.7319037815136187, test loss : 3.8467814574517014, val loss: 2.7207898842803404
+14-Feb-23 01:02:05 - Training time for this epoch: 0.068
+14-Feb-23 01:02:05 - epoch: 10, training_loss: -0.084, time:0.069
+14-Feb-23 01:02:21 - epoch: 10, training task loss: 2.713016312989755, test loss : 3.837446899099161, val loss: 2.704469684428496
+14-Feb-23 01:02:21 - Training time for this epoch: 0.073
+14-Feb-23 01:02:21 - epoch: 11, training_loss: -0.069, time:0.073
+14-Feb-23 01:02:37 - epoch: 11, training task loss: 2.6986630833360694, test loss : 3.8310900054890373, val loss: 2.692401609230153
+14-Feb-23 01:02:37 - Training time for this epoch: 0.068
+14-Feb-23 01:02:37 - epoch: 12, training_loss: -0.063, time:0.068
+14-Feb-23 01:02:54 - epoch: 12, training task loss: 2.6864837575140825, test loss : 3.8260671091487257, val loss: 2.682612711395743
+14-Feb-23 01:02:54 - Training time for this epoch: 0.072
+14-Feb-23 01:02:54 - epoch: 13, training_loss: -0.060, time:0.073
+14-Feb-23 01:03:10 - epoch: 13, training task loss: 2.6751426195113925, test loss : 3.822865833262804, val loss: 2.673200863223319
+14-Feb-23 01:03:10 - Training time for this epoch: 0.072
+14-Feb-23 01:03:10 - epoch: 14, training_loss: -0.031, time:0.073
+14-Feb-23 01:03:25 - epoch: 14, training task loss: 2.66592365000219, test loss : 3.819887336236146, val loss: 2.6656863638272026
+14-Feb-23 01:03:25 - Training time for this epoch: 0.095
+14-Feb-23 01:03:25 - epoch: 15, training_loss: -0.048, time:0.097
+14-Feb-23 01:03:41 - epoch: 15, training task loss: 2.656155303808609, test loss : 3.8196147278155834, val loss: 2.6570488679938222
+14-Feb-23 01:03:41 - Training time for this epoch: 0.082
+14-Feb-23 01:03:41 - epoch: 16, training_loss: -0.021, time:0.082
+14-Feb-23 01:03:57 - epoch: 16, training task loss: 2.6482245708257985, test loss : 3.817798132212984, val loss: 2.650273313466978
+14-Feb-23 01:03:57 - Training time for this epoch: 0.072
+14-Feb-23 01:03:57 - epoch: 17, training_loss: -0.041, time:0.072
+14-Feb-23 01:04:13 - epoch: 17, training task loss: 2.642493691935085, test loss : 3.8191456505832955, val loss: 2.645636436544308
+14-Feb-23 01:04:13 - Training time for this epoch: 0.129
+14-Feb-23 01:04:13 - epoch: 18, training_loss: -0.031, time:0.133
+14-Feb-23 01:04:29 - epoch: 18, training task loss: 2.636278000564748, test loss : 3.819951423357238, val loss: 2.640812862135766
+14-Feb-23 01:04:29 - Training time for this epoch: 0.070
+14-Feb-23 01:04:29 - epoch: 19, training_loss: -0.039, time:0.070
+14-Feb-23 01:04:48 - epoch: 19, training task loss: 2.6309643870362924, test loss : 3.8221906413481728, val loss: 2.6364505775615044
+14-Feb-23 01:04:48 - Training time for this epoch: 0.075
+14-Feb-23 01:04:48 - epoch: 20, training_loss: -0.022, time:0.075
+14-Feb-23 01:05:04 - epoch: 20, training task loss: 2.6273845546229233, test loss : 3.8228386455841483, val loss: 2.6332465563205845
+14-Feb-23 01:05:04 - Training time for this epoch: 0.077
+14-Feb-23 01:05:04 - epoch: 21, training_loss: -0.031, time:0.077
+14-Feb-23 01:05:20 - epoch: 21, training task loss: 2.62283029964473, test loss : 3.824775318172525, val loss: 2.6291711183539155
+14-Feb-23 01:05:20 - Training time for this epoch: 0.077
+14-Feb-23 01:05:20 - epoch: 22, training_loss: -0.018, time:0.078
+14-Feb-23 01:05:36 - epoch: 22, training task loss: 2.6207357249956944, test loss : 3.8261593904076605, val loss: 2.6274525906653716
+14-Feb-23 01:05:36 - Training time for this epoch: 0.068
+14-Feb-23 01:05:36 - epoch: 23, training_loss: -0.011, time:0.069
+14-Feb-23 01:05:52 - epoch: 23, training task loss: 2.618165623836853, test loss : 3.8260657158870632, val loss: 2.6254123265855394
+14-Feb-23 01:05:52 - Training time for this epoch: 0.088
+14-Feb-23 01:05:52 - epoch: 24, training_loss: -0.010, time:0.090
+14-Feb-23 01:06:11 - epoch: 24, training task loss: 2.6178637216692113, test loss : 3.82619714947869, val loss: 2.62490977017723
+14-Feb-23 01:06:11 - Training time for this epoch: 0.072
+14-Feb-23 01:06:11 - epoch: 25, training_loss: -0.018, time:0.072
+14-Feb-23 01:06:27 - epoch: 25, training task loss: 2.6148705181581473, test loss : 3.828508627826854, val loss: 2.622624848740722
+14-Feb-23 01:06:27 - Training time for this epoch: 0.076
+14-Feb-23 01:06:27 - epoch: 26, training_loss: 0.015, time:0.077
+14-Feb-23 01:06:43 - epoch: 26, training task loss: 2.6138586160578705, test loss : 3.828418659845961, val loss: 2.6216150934141047
+14-Feb-23 01:06:43 - Training time for this epoch: 0.068
+14-Feb-23 01:06:43 - epoch: 27, training_loss: -0.011, time:0.069
+14-Feb-23 01:06:59 - epoch: 27, training task loss: 2.611234293166875, test loss : 3.8292097582601508, val loss: 2.619478080053585
+14-Feb-23 01:06:59 - Training time for this epoch: 0.070
+14-Feb-23 01:06:59 - epoch: 28, training_loss: 0.010, time:0.071
+14-Feb-23 01:07:15 - epoch: 28, training task loss: 2.6106311741656216, test loss : 3.8285647575533748, val loss: 2.618670417787134
+14-Feb-23 01:07:15 - Training time for this epoch: 0.070
+14-Feb-23 01:07:15 - epoch: 29, training_loss: -0.013, time:0.070
+14-Feb-23 01:07:35 - epoch: 29, training task loss: 2.6101529423372987, test loss : 3.82936227823336, val loss: 2.6183918945832456
+14-Feb-23 01:07:35 - Training time for this epoch: 0.070
+14-Feb-23 01:07:35 - epoch: 30, training_loss: -0.007, time:0.070
+14-Feb-23 01:07:50 - epoch: 30, training task loss: 2.608602803693395, test loss : 3.8306084397317886, val loss: 2.6171853031101033
+14-Feb-23 01:07:51 - Training time for this epoch: 0.066
+14-Feb-23 01:07:51 - epoch: 31, training_loss: -0.000, time:0.067
+14-Feb-23 01:08:06 - epoch: 31, training task loss: 2.6086612361439943, test loss : 3.8283554211208877, val loss: 2.6168937312096174
+14-Feb-23 01:08:06 - Training time for this epoch: 0.075
+14-Feb-23 01:08:06 - epoch: 32, training_loss: -0.026, time:0.077
+14-Feb-23 01:08:23 - epoch: 32, training task loss: 2.607865064305341, test loss : 3.8307643812250687, val loss: 2.616386643118581
+14-Feb-23 01:08:23 - Training time for this epoch: 0.070
+14-Feb-23 01:08:23 - epoch: 33, training_loss: -0.012, time:0.071
+14-Feb-23 01:08:38 - epoch: 33, training task loss: 2.606401328767035, test loss : 3.8328297731643683, val loss: 2.615143031190922
+14-Feb-23 01:08:38 - Training time for this epoch: 0.070
+14-Feb-23 01:08:38 - epoch: 34, training_loss: 0.009, time:0.070
+14-Feb-23 01:08:54 - epoch: 34, training task loss: 2.607817308131038, test loss : 3.8336653755058077, val loss: 2.616455595383747
+14-Feb-23 01:08:55 - Training time for this epoch: 0.105
+14-Feb-23 01:08:55 - epoch: 35, training_loss: -0.005, time:0.106
+14-Feb-23 01:09:10 - epoch: 35, training task loss: 2.6094033651998583, test loss : 3.830367410513017, val loss: 2.6181453856128973
+14-Feb-23 01:09:10 - Training time for this epoch: 0.090
+14-Feb-23 01:09:10 - epoch: 36, training_loss: -0.008, time:0.091
+14-Feb-23 01:09:26 - epoch: 36, training task loss: 2.6094404489949725, test loss : 3.82868617670934, val loss: 2.6188689741512423
+14-Feb-23 01:09:27 - Training time for this epoch: 0.070
+14-Feb-23 01:09:27 - epoch: 37, training_loss: -0.004, time:0.071
+14-Feb-23 01:09:43 - epoch: 37, training task loss: 2.608977921334776, test loss : 3.8312535527149176, val loss: 2.618233158128478
+14-Feb-23 01:09:43 - Training time for this epoch: 0.070
+14-Feb-23 01:09:43 - epoch: 38, training_loss: -0.007, time:0.072
+14-Feb-23 01:09:59 - epoch: 38, training task loss: 2.607281649406528, test loss : 3.8322914658190395, val loss: 2.6166080126814624
+14-Feb-23 01:09:59 - Training time for this epoch: 0.088
+14-Feb-23 01:09:59 - epoch: 39, training_loss: 0.016, time:0.089
+14-Feb-23 01:10:15 - epoch: 39, training task loss: 2.6087147373958235, test loss : 3.8309318891333306, val loss: 2.617992540192428
+14-Feb-23 01:10:15 - Training time for this epoch: 0.070
+14-Feb-23 01:10:15 - epoch: 40, training_loss: -0.004, time:0.071
+14-Feb-23 01:10:31 - epoch: 40, training task loss: 2.607602915601959, test loss : 3.8334376955435845, val loss: 2.617163813912266
+14-Feb-23 01:10:31 - Training time for this epoch: 0.071
+14-Feb-23 01:10:31 - epoch: 41, training_loss: -0.002, time:0.071
+14-Feb-23 01:10:48 - epoch: 41, training task loss: 2.6071186748964372, test loss : 3.8328702365516536, val loss: 2.6167605683361037
+14-Feb-23 01:10:48 - Training time for this epoch: 0.074
+14-Feb-23 01:10:48 - epoch: 42, training_loss: -0.001, time:0.074
+14-Feb-23 01:11:04 - epoch: 42, training task loss: 2.6068938251046125, test loss : 3.8322919404762326, val loss: 2.6167815188033554
+14-Feb-23 01:11:04 - Training time for this epoch: 0.137
+14-Feb-23 01:11:04 - epoch: 43, training_loss: -0.010, time:0.138
+14-Feb-23 01:11:20 - epoch: 43, training task loss: 2.6050388922816197, test loss : 3.8316981247124797, val loss: 2.6158122485911566
+14-Feb-23 01:11:20 - Training time for this epoch: 0.068
+14-Feb-23 01:11:20 - epoch: 44, training_loss: -0.001, time:0.069
+14-Feb-23 01:11:37 - epoch: 44, training task loss: 2.604575581943898, test loss : 3.832037542149087, val loss: 2.61517781303676
+14-Feb-23 01:11:37 - Training time for this epoch: 0.106
+14-Feb-23 01:11:37 - epoch: 45, training_loss: -0.008, time:0.107
+14-Feb-23 01:11:54 - epoch: 45, training task loss: 2.604439219862048, test loss : 3.831085091312618, val loss: 2.614864563536989
+14-Feb-23 01:11:54 - Training time for this epoch: 0.085
+14-Feb-23 01:11:54 - epoch: 46, training_loss: -0.007, time:0.086
+14-Feb-23 01:12:10 - epoch: 46, training task loss: 2.6043234398890487, test loss : 3.831750253905323, val loss: 2.614635081267034
+14-Feb-23 01:12:10 - Training time for this epoch: 0.075
+14-Feb-23 01:12:10 - epoch: 47, training_loss: -0.003, time:0.075
+14-Feb-23 01:12:26 - epoch: 47, training task loss: 2.603496360634445, test loss : 3.8333263139842693, val loss: 2.61389079059708
+14-Feb-23 01:12:26 - Training time for this epoch: 0.095
+14-Feb-23 01:12:26 - epoch: 48, training_loss: 0.012, time:0.095
+14-Feb-23 01:12:42 - epoch: 48, training task loss: 2.60528700588897, test loss : 3.8313085718507227, val loss: 2.6150209030459255
+14-Feb-23 01:12:42 - Training time for this epoch: 0.108
+14-Feb-23 01:12:42 - epoch: 49, training_loss: 0.016, time:0.109
+14-Feb-23 01:12:59 - epoch: 49, training task loss: 2.607899977222041, test loss : 3.8285403916187484, val loss: 2.6173287225384265
+14-Feb-23 01:12:59 - 4-th run
+14-Feb-23 01:13:15 - Training time for this epoch: 0.092
+14-Feb-23 01:13:15 - epoch: 0, training_loss: 61.167, time:0.093
+14-Feb-23 01:13:31 - epoch: 0, training task loss: 3.3675505292547827, test loss : 4.1842149218882945, val loss: 3.2830833584073593
+14-Feb-23 01:13:31 - Training time for this epoch: 0.116
+14-Feb-23 01:13:31 - epoch: 1, training_loss: -0.505, time:0.117
+14-Feb-23 01:13:48 - epoch: 1, training task loss: 3.222348009004012, test loss : 4.062489997545954, val loss: 3.1375421854484205
+14-Feb-23 01:13:48 - Training time for this epoch: 0.077
+14-Feb-23 01:13:48 - epoch: 2, training_loss: -0.351, time:0.078
+14-Feb-23 01:14:04 - epoch: 2, training task loss: 3.1276108567653433, test loss : 3.9849252257065637, val loss: 3.0387112741134965
+14-Feb-23 01:14:04 - Training time for this epoch: 0.076
+14-Feb-23 01:14:04 - epoch: 3, training_loss: -0.282, time:0.076
+14-Feb-23 01:14:22 - epoch: 3, training task loss: 3.057658820177228, test loss : 3.933242569244919, val loss: 2.9661652948319155
+14-Feb-23 01:14:22 - Training time for this epoch: 0.083
+14-Feb-23 01:14:22 - epoch: 4, training_loss: -0.220, time:0.083
+14-Feb-23 01:14:38 - epoch: 4, training task loss: 3.003555600134243, test loss : 3.898263114025175, val loss: 2.9106960336661007
+14-Feb-23 01:14:38 - Training time for this epoch: 0.069
+14-Feb-23 01:14:38 - epoch: 5, training_loss: -0.179, time:0.070
+14-Feb-23 01:14:54 - epoch: 5, training task loss: 2.962736845892372, test loss : 3.875222508566332, val loss: 2.8684425794252273
+14-Feb-23 01:14:55 - Training time for this epoch: 0.099
+14-Feb-23 01:14:55 - epoch: 6, training_loss: -0.159, time:0.100
+14-Feb-23 01:15:10 - epoch: 6, training task loss: 2.928788109361987, test loss : 3.8584042002826067, val loss: 2.8332088515033442
+14-Feb-23 01:15:10 - Training time for this epoch: 0.085
+14-Feb-23 01:15:10 - epoch: 7, training_loss: -0.118, time:0.086
+14-Feb-23 01:15:25 - epoch: 7, training task loss: 2.9011384736992727, test loss : 3.8462513557618614, val loss: 2.804033286371417
+14-Feb-23 01:15:25 - Training time for this epoch: 0.068
+14-Feb-23 01:15:25 - epoch: 8, training_loss: -0.110, time:0.069
+14-Feb-23 01:15:41 - epoch: 8, training task loss: 2.8782629728194142, test loss : 3.8384807542010986, val loss: 2.7793352138691385
+14-Feb-23 01:15:41 - Training time for this epoch: 0.074
+14-Feb-23 01:15:41 - epoch: 9, training_loss: -0.094, time:0.075
+14-Feb-23 01:15:56 - epoch: 9, training task loss: 2.859452152485264, test loss : 3.8345290251840662, val loss: 2.7589019484141297
+14-Feb-23 01:15:56 - Training time for this epoch: 0.069
+14-Feb-23 01:15:56 - epoch: 10, training_loss: -0.072, time:0.069
+14-Feb-23 01:16:12 - epoch: 10, training task loss: 2.8450892715243827, test loss : 3.8317208422046005, val loss: 2.7435667309974567
+14-Feb-23 01:16:12 - Training time for this epoch: 0.071
+14-Feb-23 01:16:12 - epoch: 11, training_loss: -0.068, time:0.071
+14-Feb-23 01:16:27 - epoch: 11, training task loss: 2.8305201461877716, test loss : 3.8310022940857777, val loss: 2.7272977921167323
+14-Feb-23 01:16:27 - Training time for this epoch: 0.105
+14-Feb-23 01:16:27 - epoch: 12, training_loss: -0.049, time:0.105
+14-Feb-23 01:16:42 - epoch: 12, training task loss: 2.8179004717271527, test loss : 3.832776459040319, val loss: 2.713351699682869
+14-Feb-23 01:16:43 - Training time for this epoch: 0.076
+14-Feb-23 01:16:43 - epoch: 13, training_loss: -0.044, time:0.076
+14-Feb-23 01:16:58 - epoch: 13, training task loss: 2.8087347405993817, test loss : 3.834907905140364, val loss: 2.704110762718689
+14-Feb-23 01:16:58 - Training time for this epoch: 0.068
+14-Feb-23 01:16:58 - epoch: 14, training_loss: -0.058, time:0.069
+14-Feb-23 01:17:13 - epoch: 14, training task loss: 2.8003456143498373, test loss : 3.8363429924743753, val loss: 2.6955018839051292
+14-Feb-23 01:17:13 - Training time for this epoch: 0.071
+14-Feb-23 01:17:13 - epoch: 15, training_loss: -0.036, time:0.072
+14-Feb-23 01:17:28 - epoch: 15, training task loss: 2.79226770984932, test loss : 3.842478749512067, val loss: 2.6864268397713045
+14-Feb-23 01:17:29 - Training time for this epoch: 0.069
+14-Feb-23 01:17:29 - epoch: 16, training_loss: -0.041, time:0.070
+14-Feb-23 01:17:46 - epoch: 16, training task loss: 2.7854384256298657, test loss : 3.847058763708078, val loss: 2.67890167865128
+14-Feb-23 01:17:46 - Training time for this epoch: 0.077
+14-Feb-23 01:17:46 - epoch: 17, training_loss: -0.033, time:0.078
+14-Feb-23 01:18:02 - epoch: 17, training task loss: 2.7811873705657684, test loss : 3.8510180422128597, val loss: 2.674125559400423
+14-Feb-23 01:18:03 - Training time for this epoch: 0.081
+14-Feb-23 01:18:03 - epoch: 18, training_loss: -0.048, time:0.082
+14-Feb-23 01:18:19 - epoch: 18, training task loss: 2.7758357979985946, test loss : 3.8554863402847164, val loss: 2.668397940046968
+14-Feb-23 01:18:19 - Training time for this epoch: 0.080
+14-Feb-23 01:18:19 - epoch: 19, training_loss: -0.016, time:0.081
+14-Feb-23 01:18:35 - epoch: 19, training task loss: 2.7725353024769337, test loss : 3.8596922238135885, val loss: 2.664830701984745
+14-Feb-23 01:18:35 - Training time for this epoch: 0.081
+14-Feb-23 01:18:35 - epoch: 20, training_loss: -0.021, time:0.081
+14-Feb-23 01:18:51 - epoch: 20, training task loss: 2.769727262033066, test loss : 3.86441150302092, val loss: 2.6615233817586965
+14-Feb-23 01:18:51 - Training time for this epoch: 0.067
+14-Feb-23 01:18:51 - epoch: 21, training_loss: -0.008, time:0.068
+14-Feb-23 01:19:07 - epoch: 21, training task loss: 2.7678074624490954, test loss : 3.867830784875675, val loss: 2.6592436153174206
+14-Feb-23 01:19:07 - Training time for this epoch: 0.099
+14-Feb-23 01:19:07 - epoch: 22, training_loss: -0.010, time:0.100
+14-Feb-23 01:19:23 - epoch: 22, training task loss: 2.7672758680318865, test loss : 3.8676462824181246, val loss: 2.6591017211803476
+14-Feb-23 01:19:23 - Training time for this epoch: 0.069
+14-Feb-23 01:19:23 - epoch: 23, training_loss: -0.016, time:0.069
+14-Feb-23 01:19:39 - epoch: 23, training task loss: 2.764327846865376, test loss : 3.8739083873856512, val loss: 2.6558283939939016
+14-Feb-23 01:19:39 - Training time for this epoch: 0.068
+14-Feb-23 01:19:39 - epoch: 24, training_loss: -0.015, time:0.069
+14-Feb-23 01:19:55 - epoch: 24, training task loss: 2.7623128072208036, test loss : 3.877422558360915, val loss: 2.6539978743464503
+14-Feb-23 01:19:55 - Training time for this epoch: 0.091
+14-Feb-23 01:19:55 - epoch: 25, training_loss: -0.014, time:0.094
+14-Feb-23 01:20:11 - epoch: 25, training task loss: 2.76068810348882, test loss : 3.879910852754751, val loss: 2.652851384285139
+14-Feb-23 01:20:11 - Training time for this epoch: 0.071
+14-Feb-23 01:20:11 - epoch: 26, training_loss: -0.001, time:0.071
+14-Feb-23 01:20:27 - epoch: 26, training task loss: 2.760150259334458, test loss : 3.8814184413701103, val loss: 2.6527368587917732
+14-Feb-23 01:20:27 - Training time for this epoch: 0.079
+14-Feb-23 01:20:27 - epoch: 27, training_loss: -0.003, time:0.080
+14-Feb-23 01:20:43 - epoch: 27, training task loss: 2.7596940885122807, test loss : 3.8799052023076177, val loss: 2.652940108306736
+14-Feb-23 01:20:43 - Training time for this epoch: 0.077
+14-Feb-23 01:20:43 - epoch: 28, training_loss: -0.018, time:0.078
+14-Feb-23 01:20:59 - epoch: 28, training task loss: 2.758786124042675, test loss : 3.8828926561735577, val loss: 2.6519142878493582
+14-Feb-23 01:20:59 - Training time for this epoch: 0.070
+14-Feb-23 01:20:59 - epoch: 29, training_loss: -0.010, time:0.071
+14-Feb-23 01:21:14 - epoch: 29, training task loss: 2.7571717314506996, test loss : 3.8832003038993976, val loss: 2.6506371366322066
+14-Feb-23 01:21:14 - Training time for this epoch: 0.075
+14-Feb-23 01:21:14 - epoch: 30, training_loss: 0.005, time:0.076
+14-Feb-23 01:21:30 - epoch: 30, training task loss: 2.758170793243499, test loss : 3.8829012747122604, val loss: 2.651924305713643
+14-Feb-23 01:21:30 - Training time for this epoch: 0.085
+14-Feb-23 01:21:30 - epoch: 31, training_loss: -0.012, time:0.086
+14-Feb-23 01:21:46 - epoch: 31, training task loss: 2.7570423214653714, test loss : 3.886111367621612, val loss: 2.650658636602469
+14-Feb-23 01:21:46 - Training time for this epoch: 0.057
+14-Feb-23 01:21:46 - epoch: 32, training_loss: 0.000, time:0.058
+14-Feb-23 01:22:03 - epoch: 32, training task loss: 2.7556811728595614, test loss : 3.8887661417226225, val loss: 2.6494022832418764
+14-Feb-23 01:22:03 - Training time for this epoch: 0.092
+14-Feb-23 01:22:03 - epoch: 33, training_loss: 0.004, time:0.093
+14-Feb-23 01:22:18 - epoch: 33, training task loss: 2.755110957836526, test loss : 3.890465018569209, val loss: 2.648788737739459
+14-Feb-23 01:22:18 - Training time for this epoch: 0.098
+14-Feb-23 01:22:18 - epoch: 34, training_loss: -0.023, time:0.098
+14-Feb-23 01:22:34 - epoch: 34, training task loss: 2.7531130333568528, test loss : 3.893920409134509, val loss: 2.646543579488414
+14-Feb-23 01:22:34 - Training time for this epoch: 0.075
+14-Feb-23 01:22:34 - epoch: 35, training_loss: -0.008, time:0.076
+14-Feb-23 01:22:49 - epoch: 35, training task loss: 2.7521136874734156, test loss : 3.8954496118840476, val loss: 2.645963202355638
+14-Feb-23 01:22:49 - Training time for this epoch: 0.083
+14-Feb-23 01:22:49 - epoch: 36, training_loss: -0.001, time:0.084
+14-Feb-23 01:23:05 - epoch: 36, training task loss: 2.751786642213416, test loss : 3.896286585808707, val loss: 2.646074290521798
+14-Feb-23 01:23:05 - Training time for this epoch: 0.069
+14-Feb-23 01:23:05 - epoch: 37, training_loss: -0.001, time:0.070
+14-Feb-23 01:23:20 - epoch: 37, training task loss: 2.752135915311353, test loss : 3.8986633441238494, val loss: 2.6462976946111416
+14-Feb-23 01:23:20 - Training time for this epoch: 0.105
+14-Feb-23 01:23:20 - epoch: 38, training_loss: -0.012, time:0.106
+14-Feb-23 01:23:35 - epoch: 38, training task loss: 2.7517387108781373, test loss : 3.90083149603406, val loss: 2.6451496609038676
+14-Feb-23 01:23:35 - Training time for this epoch: 0.100
+14-Feb-23 01:23:35 - epoch: 39, training_loss: -0.007, time:0.100
+14-Feb-23 01:23:52 - epoch: 39, training task loss: 2.751030301828661, test loss : 3.900583599981481, val loss: 2.6446391455043874
+14-Feb-23 01:23:52 - Training time for this epoch: 0.090
+14-Feb-23 01:23:52 - epoch: 40, training_loss: 0.007, time:0.091
+14-Feb-23 01:24:07 - epoch: 40, training task loss: 2.7517968246664197, test loss : 3.900619147794839, val loss: 2.645404408715226
+14-Feb-23 01:24:07 - Training time for this epoch: 0.071
+14-Feb-23 01:24:07 - epoch: 41, training_loss: -0.002, time:0.074
+14-Feb-23 01:24:22 - epoch: 41, training task loss: 2.7511749042041442, test loss : 3.900545638280142, val loss: 2.645072153381019
+14-Feb-23 01:24:22 - Training time for this epoch: 0.068
+14-Feb-23 01:24:22 - epoch: 42, training_loss: 0.000, time:0.069
+14-Feb-23 01:24:37 - epoch: 42, training task loss: 2.7528230808554808, test loss : 3.900750545682738, val loss: 2.6467912594421263
+14-Feb-23 01:24:37 - Training time for this epoch: 0.068
+14-Feb-23 01:24:37 - epoch: 43, training_loss: 0.006, time:0.069
+14-Feb-23 01:24:53 - epoch: 43, training task loss: 2.753280799361109, test loss : 3.9009424549509606, val loss: 2.647563853085556
+14-Feb-23 01:24:53 - Training time for this epoch: 0.068
+14-Feb-23 01:24:53 - epoch: 44, training_loss: 0.006, time:0.069
+14-Feb-23 01:25:08 - epoch: 44, training task loss: 2.755059401285493, test loss : 3.898377706029239, val loss: 2.6496756592088473
+14-Feb-23 01:25:08 - Training time for this epoch: 0.102
+14-Feb-23 01:25:08 - epoch: 45, training_loss: 0.004, time:0.103
+14-Feb-23 01:25:27 - epoch: 45, training task loss: 2.7551863419333777, test loss : 3.898271029478742, val loss: 2.650227063817973
+14-Feb-23 01:25:27 - Training time for this epoch: 0.079
+14-Feb-23 01:25:27 - epoch: 46, training_loss: 0.012, time:0.082
+14-Feb-23 01:25:43 - epoch: 46, training task loss: 2.755477604082323, test loss : 3.897273552619201, val loss: 2.6507733535914246
+14-Feb-23 01:25:43 - Training time for this epoch: 0.084
+14-Feb-23 01:25:43 - epoch: 47, training_loss: 0.014, time:0.084
+14-Feb-23 01:26:00 - epoch: 47, training task loss: 2.7571352706084435, test loss : 3.8961600274244677, val loss: 2.6527683496250165
+14-Feb-23 01:26:00 - Training time for this epoch: 0.080
+14-Feb-23 01:26:00 - epoch: 48, training_loss: 0.007, time:0.081
+14-Feb-23 01:26:18 - epoch: 48, training task loss: 2.756916320962022, test loss : 3.895064000103389, val loss: 2.6529859453683518
+14-Feb-23 01:26:18 - Training time for this epoch: 0.094
+14-Feb-23 01:26:18 - epoch: 49, training_loss: 0.013, time:0.095
+14-Feb-23 01:26:35 - epoch: 49, training task loss: 2.756696296109003, test loss : 3.8940887878530077, val loss: 2.6531213560009173
+14-Feb-23 01:26:35 - 5-th run
+14-Feb-23 01:26:52 - Training time for this epoch: 0.073
+14-Feb-23 01:26:52 - epoch: 0, training_loss: 62.407, time:0.074
+14-Feb-23 01:27:10 - epoch: 0, training task loss: 3.236166685525779, test loss : 4.296577448555503, val loss: 3.2239552952599224
+14-Feb-23 01:27:10 - Training time for this epoch: 0.071
+14-Feb-23 01:27:10 - epoch: 1, training_loss: -0.465, time:0.072
+14-Feb-23 01:27:27 - epoch: 1, training task loss: 3.1043829517377985, test loss : 4.129284859668344, val loss: 3.097603180647976
+14-Feb-23 01:27:27 - Training time for this epoch: 0.088
+14-Feb-23 01:27:27 - epoch: 2, training_loss: -0.299, time:0.089
+14-Feb-23 01:27:43 - epoch: 2, training task loss: 3.0111872007064564, test loss : 4.029587905404721, val loss: 3.0072933758856824
+14-Feb-23 01:27:43 - Training time for this epoch: 0.069
+14-Feb-23 01:27:43 - epoch: 3, training_loss: -0.210, time:0.070
+14-Feb-23 01:27:59 - epoch: 3, training task loss: 2.941919596385959, test loss : 3.9705016856629207, val loss: 2.938529475313416
+14-Feb-23 01:28:00 - Training time for this epoch: 0.069
+14-Feb-23 01:28:00 - epoch: 4, training_loss: -0.200, time:0.070
+14-Feb-23 01:28:16 - epoch: 4, training task loss: 2.8896743969737275, test loss : 3.9397479170106617, val loss: 2.8876821616375863
+14-Feb-23 01:28:16 - Training time for this epoch: 0.069
+14-Feb-23 01:28:16 - epoch: 5, training_loss: -0.163, time:0.069
+14-Feb-23 01:28:32 - epoch: 5, training task loss: 2.848575933077074, test loss : 3.922501875061415, val loss: 2.8474956686319284
+14-Feb-23 01:28:32 - Training time for this epoch: 0.068
+14-Feb-23 01:28:32 - epoch: 6, training_loss: -0.134, time:0.069
+14-Feb-23 01:28:48 - epoch: 6, training task loss: 2.816857519231781, test loss : 3.9127226032793425, val loss: 2.816956267110443
+14-Feb-23 01:28:48 - Training time for this epoch: 0.068
+14-Feb-23 01:28:48 - epoch: 7, training_loss: -0.100, time:0.069
+14-Feb-23 01:29:05 - epoch: 7, training task loss: 2.789997236115018, test loss : 3.908494162388016, val loss: 2.791642452205963
+14-Feb-23 01:29:05 - Training time for this epoch: 0.069
+14-Feb-23 01:29:05 - epoch: 8, training_loss: -0.106, time:0.070
+14-Feb-23 01:29:21 - epoch: 8, training task loss: 2.767366209308088, test loss : 3.9071842322074524, val loss: 2.770217366691753
+14-Feb-23 01:29:21 - Training time for this epoch: 0.109
+14-Feb-23 01:29:21 - epoch: 9, training_loss: -0.086, time:0.110
+14-Feb-23 01:29:38 - epoch: 9, training task loss: 2.75133932993267, test loss : 3.9080644192546576, val loss: 2.755423330482271
+14-Feb-23 01:29:38 - Training time for this epoch: 0.075
+14-Feb-23 01:29:38 - epoch: 10, training_loss: -0.057, time:0.076
+14-Feb-23 01:29:55 - epoch: 10, training task loss: 2.7364962479484554, test loss : 3.9098269954081304, val loss: 2.7415044846565477
+14-Feb-23 01:29:55 - Training time for this epoch: 0.082
+14-Feb-23 01:29:55 - epoch: 11, training_loss: -0.082, time:0.083
+14-Feb-23 01:30:12 - epoch: 11, training task loss: 2.7227258763635844, test loss : 3.9139872147538197, val loss: 2.728736259239518
+14-Feb-23 01:30:12 - Training time for this epoch: 0.095
+14-Feb-23 01:30:12 - epoch: 12, training_loss: -0.067, time:0.096
+14-Feb-23 01:30:29 - epoch: 12, training task loss: 2.7107737407739503, test loss : 3.9170790406003704, val loss: 2.7178670090896926
+14-Feb-23 01:30:29 - Training time for this epoch: 0.076
+14-Feb-23 01:30:29 - epoch: 13, training_loss: -0.046, time:0.077
+14-Feb-23 01:30:47 - epoch: 13, training task loss: 2.7014468056588976, test loss : 3.9210757410377974, val loss: 2.70899736590299
+14-Feb-23 01:30:47 - Training time for this epoch: 0.099
+14-Feb-23 01:30:47 - epoch: 14, training_loss: -0.034, time:0.099
+14-Feb-23 01:31:02 - epoch: 14, training task loss: 2.692403637354049, test loss : 3.9274924053422806, val loss: 2.699620816891564
+14-Feb-23 01:31:02 - Training time for this epoch: 0.066
+14-Feb-23 01:31:02 - epoch: 15, training_loss: -0.027, time:0.066
+14-Feb-23 01:31:18 - epoch: 15, training task loss: 2.6855691643638284, test loss : 3.930729231862102, val loss: 2.69292081202363
+14-Feb-23 01:31:18 - Training time for this epoch: 0.067
+14-Feb-23 01:31:18 - epoch: 16, training_loss: -0.037, time:0.068
+14-Feb-23 01:31:34 - epoch: 16, training task loss: 2.678544073542692, test loss : 3.9360014966070778, val loss: 2.6857539110486037
+14-Feb-23 01:31:34 - Training time for this epoch: 0.069
+14-Feb-23 01:31:34 - epoch: 17, training_loss: -0.032, time:0.070
+14-Feb-23 01:31:51 - epoch: 17, training task loss: 2.672638457138912, test loss : 3.9403933491600553, val loss: 2.679674617967688
+14-Feb-23 01:31:51 - Training time for this epoch: 0.072
+14-Feb-23 01:31:51 - epoch: 18, training_loss: -0.015, time:0.074
+14-Feb-23 01:32:07 - epoch: 18, training task loss: 2.669115471795646, test loss : 3.945434327914236, val loss: 2.675531559720528
+14-Feb-23 01:32:07 - Training time for this epoch: 0.070
+14-Feb-23 01:32:07 - epoch: 19, training_loss: -0.008, time:0.071
+14-Feb-23 01:32:25 - epoch: 19, training task loss: 2.6644684301782897, test loss : 3.9476858658235976, val loss: 2.671345784398262
+14-Feb-23 01:32:25 - Training time for this epoch: 0.071
+14-Feb-23 01:32:25 - epoch: 20, training_loss: -0.004, time:0.072
+14-Feb-23 01:32:42 - epoch: 20, training task loss: 2.6637716717506876, test loss : 3.9514650031355947, val loss: 2.6703051234702513
+14-Feb-23 01:32:42 - Training time for this epoch: 0.096
+14-Feb-23 01:32:42 - epoch: 21, training_loss: -0.021, time:0.097
+14-Feb-23 01:32:58 - epoch: 21, training task loss: 2.66010529396939, test loss : 3.9549693244766226, val loss: 2.666633732036802
+14-Feb-23 01:32:58 - Training time for this epoch: 0.069
+14-Feb-23 01:32:58 - epoch: 22, training_loss: -0.014, time:0.070
+14-Feb-23 01:33:15 - epoch: 22, training task loss: 2.6576442921306587, test loss : 3.9584064909576697, val loss: 2.664420888779797
+14-Feb-23 01:33:15 - Training time for this epoch: 0.060
+14-Feb-23 01:33:15 - epoch: 23, training_loss: -0.027, time:0.061
+14-Feb-23 01:33:33 - epoch: 23, training task loss: 2.654884881841025, test loss : 3.962385521696821, val loss: 2.661499366783344
+14-Feb-23 01:33:34 - Training time for this epoch: 0.092
+14-Feb-23 01:33:34 - epoch: 24, training_loss: -0.014, time:0.092
+14-Feb-23 01:33:51 - epoch: 24, training task loss: 2.6536860095489714, test loss : 3.961947707703984, val loss: 2.661166632668235
+14-Feb-23 01:33:51 - Training time for this epoch: 0.102
+14-Feb-23 01:33:51 - epoch: 25, training_loss: -0.002, time:0.103
+14-Feb-23 01:34:08 - epoch: 25, training task loss: 2.650790340385668, test loss : 3.9648197791007598, val loss: 2.6586602663595764
+14-Feb-23 01:34:08 - Training time for this epoch: 0.074
+14-Feb-23 01:34:08 - epoch: 26, training_loss: -0.012, time:0.075
+14-Feb-23 01:34:24 - epoch: 26, training task loss: 2.6495131208607043, test loss : 3.9638138039756994, val loss: 2.658058701322047
+14-Feb-23 01:34:24 - Training time for this epoch: 0.069
+14-Feb-23 01:34:24 - epoch: 27, training_loss: -0.018, time:0.069
+14-Feb-23 01:34:41 - epoch: 27, training task loss: 2.649267575797426, test loss : 3.965623776851985, val loss: 2.6576667846444213
+14-Feb-23 01:34:41 - Training time for this epoch: 0.129
+14-Feb-23 01:34:41 - epoch: 28, training_loss: -0.006, time:0.130
+14-Feb-23 01:34:58 - epoch: 28, training task loss: 2.6472667187742998, test loss : 3.964822663159439, val loss: 2.6561896207665705
+14-Feb-23 01:34:58 - Training time for this epoch: 0.068
+14-Feb-23 01:34:58 - epoch: 29, training_loss: -0.015, time:0.069
+14-Feb-23 01:35:16 - epoch: 29, training task loss: 2.6457274871220666, test loss : 3.9657928167871894, val loss: 2.6547792976007196
+14-Feb-23 01:35:16 - Training time for this epoch: 0.069
+14-Feb-23 01:35:16 - epoch: 30, training_loss: -0.023, time:0.070
+14-Feb-23 01:35:35 - epoch: 30, training task loss: 2.6431340353823414, test loss : 3.9683240294304984, val loss: 2.6525082850386887
+14-Feb-23 01:35:35 - Training time for this epoch: 0.071
+14-Feb-23 01:35:35 - epoch: 31, training_loss: 0.002, time:0.072
+14-Feb-23 01:35:52 - epoch: 31, training task loss: 2.6437390358668957, test loss : 3.969588716272935, val loss: 2.6527183486925683
+14-Feb-23 01:35:52 - Training time for this epoch: 0.070
+14-Feb-23 01:35:52 - epoch: 32, training_loss: -0.008, time:0.071
+14-Feb-23 01:36:10 - epoch: 32, training task loss: 2.6433371557783056, test loss : 3.972347507965472, val loss: 2.651483292623215
+14-Feb-23 01:36:10 - Training time for this epoch: 0.067
+14-Feb-23 01:36:10 - epoch: 33, training_loss: -0.018, time:0.068
+14-Feb-23 01:36:27 - epoch: 33, training task loss: 2.64237384698124, test loss : 3.9751009476509043, val loss: 2.6499968706749
+14-Feb-23 01:36:27 - Training time for this epoch: 0.080
+14-Feb-23 01:36:27 - epoch: 34, training_loss: -0.012, time:0.083
+14-Feb-23 01:36:44 - epoch: 34, training task loss: 2.6390650869718972, test loss : 3.9774477654003833, val loss: 2.647157999585592
+14-Feb-23 01:36:44 - Training time for this epoch: 0.070
+14-Feb-23 01:36:44 - epoch: 35, training_loss: -0.005, time:0.071
+14-Feb-23 01:37:02 - epoch: 35, training task loss: 2.6381709819956476, test loss : 3.979907519194886, val loss: 2.646031627368631
+14-Feb-23 01:37:02 - Training time for this epoch: 0.123
+14-Feb-23 01:37:02 - epoch: 36, training_loss: 0.017, time:0.125
+14-Feb-23 01:37:21 - epoch: 36, training task loss: 2.6392490679738474, test loss : 3.9770191423926806, val loss: 2.647429102203449
+14-Feb-23 01:37:21 - Training time for this epoch: 0.141
+14-Feb-23 01:37:21 - epoch: 37, training_loss: 0.004, time:0.142
+14-Feb-23 01:37:39 - epoch: 37, training task loss: 2.6393064529122627, test loss : 3.977644278808198, val loss: 2.6469916825356496
+14-Feb-23 01:37:39 - Training time for this epoch: 0.067
+14-Feb-23 01:37:39 - epoch: 38, training_loss: 0.006, time:0.068
+14-Feb-23 01:37:56 - epoch: 38, training task loss: 2.639433396972735, test loss : 3.9792313137050663, val loss: 2.646846666989541
+14-Feb-23 01:37:56 - Training time for this epoch: 0.074
+14-Feb-23 01:37:56 - epoch: 39, training_loss: -0.005, time:0.075
+14-Feb-23 01:38:14 - epoch: 39, training task loss: 2.638874763572655, test loss : 3.981040286778284, val loss: 2.646417564285324
+14-Feb-23 01:38:14 - Training time for this epoch: 0.084
+14-Feb-23 01:38:14 - epoch: 40, training_loss: -0.015, time:0.084
+14-Feb-23 01:38:31 - epoch: 40, training task loss: 2.6382976816413066, test loss : 3.9816115622788413, val loss: 2.646007950713397
+14-Feb-23 01:38:31 - Training time for this epoch: 0.089
+14-Feb-23 01:38:31 - epoch: 41, training_loss: 0.017, time:0.090
+14-Feb-23 01:38:47 - epoch: 41, training task loss: 2.6393111073542865, test loss : 3.9790061818175575, val loss: 2.6476759927147993
+14-Feb-23 01:38:47 - Training time for this epoch: 0.069
+14-Feb-23 01:38:47 - epoch: 42, training_loss: -0.013, time:0.069
+14-Feb-23 01:39:03 - epoch: 42, training task loss: 2.639429741496788, test loss : 3.979989317686094, val loss: 2.6475548547008083
+14-Feb-23 01:39:03 - Training time for this epoch: 0.071
+14-Feb-23 01:39:03 - epoch: 43, training_loss: 0.011, time:0.072
+14-Feb-23 01:39:19 - epoch: 43, training task loss: 2.640546865404967, test loss : 3.979621897965412, val loss: 2.6486708332647226
+14-Feb-23 01:39:19 - Training time for this epoch: 0.069
+14-Feb-23 01:39:19 - epoch: 44, training_loss: -0.006, time:0.070
+14-Feb-23 01:39:34 - epoch: 44, training task loss: 2.6406931473797406, test loss : 3.978093103229709, val loss: 2.6494013441198883
+14-Feb-23 01:39:34 - Training time for this epoch: 0.085
+14-Feb-23 01:39:34 - epoch: 45, training_loss: 0.004, time:0.085
+14-Feb-23 01:39:51 - epoch: 45, training task loss: 2.6407357158700115, test loss : 3.9827037953945896, val loss: 2.648523201696392
+14-Feb-23 01:39:51 - Training time for this epoch: 0.070
+14-Feb-23 01:39:51 - epoch: 46, training_loss: 0.014, time:0.071
+14-Feb-23 01:40:08 - epoch: 46, training task loss: 2.6429299940591267, test loss : 3.9821997415304504, val loss: 2.6501232375788915
+14-Feb-23 01:40:08 - Training time for this epoch: 0.060
+14-Feb-23 01:40:08 - epoch: 47, training_loss: 0.012, time:0.060
+14-Feb-23 01:40:25 - epoch: 47, training task loss: 2.6440138334236725, test loss : 3.9830577273545087, val loss: 2.65142662885611
+14-Feb-23 01:40:25 - Training time for this epoch: 0.079
+14-Feb-23 01:40:25 - epoch: 48, training_loss: -0.009, time:0.080
+14-Feb-23 01:40:42 - epoch: 48, training task loss: 2.6444432457449984, test loss : 3.9819777308380795, val loss: 2.6526401963016992
+14-Feb-23 01:40:42 - Training time for this epoch: 0.079
+14-Feb-23 01:40:42 - epoch: 49, training_loss: 0.012, time:0.080
+14-Feb-23 01:41:01 - epoch: 49, training task loss: 2.643784976383291, test loss : 3.9835110767090027, val loss: 2.65185724789083
+14-Feb-23 01:41:01 - 6-th run
+14-Feb-23 01:41:18 - Training time for this epoch: 0.114
+14-Feb-23 01:41:18 - epoch: 0, training_loss: 57.093, time:0.115
+14-Feb-23 01:41:36 - epoch: 0, training task loss: 2.986568782795727, test loss : 4.282629244738063, val loss: 3.0030972852135918
+14-Feb-23 01:41:36 - Training time for this epoch: 0.106
+14-Feb-23 01:41:36 - epoch: 1, training_loss: -0.358, time:0.106
+14-Feb-23 01:41:56 - epoch: 1, training task loss: 2.8852370314826796, test loss : 4.019193304675622, val loss: 2.8976484663461304
+14-Feb-23 01:41:56 - Training time for this epoch: 0.074
+14-Feb-23 01:41:56 - epoch: 2, training_loss: -0.289, time:0.075
+14-Feb-23 01:42:13 - epoch: 2, training task loss: 2.813159572756379, test loss : 3.8638627138214523, val loss: 2.8247541908167397
+14-Feb-23 01:42:13 - Training time for this epoch: 0.068
+14-Feb-23 01:42:13 - epoch: 3, training_loss: -0.204, time:0.068
+14-Feb-23 01:42:29 - epoch: 3, training task loss: 2.7573841453250507, test loss : 3.7583695081121546, val loss: 2.7689506334250424
+14-Feb-23 01:42:29 - Training time for this epoch: 0.076
+14-Feb-23 01:42:29 - epoch: 4, training_loss: -0.180, time:0.077
+14-Feb-23 01:42:46 - epoch: 4, training task loss: 2.713654213425068, test loss : 3.689190744686467, val loss: 2.7259039179324973
+14-Feb-23 01:42:46 - Training time for this epoch: 0.079
+14-Feb-23 01:42:46 - epoch: 5, training_loss: -0.163, time:0.080
+14-Feb-23 01:43:04 - epoch: 5, training task loss: 2.679239376205824, test loss : 3.6402234694674327, val loss: 2.6911199669313937
+14-Feb-23 01:43:04 - Training time for this epoch: 0.077
+14-Feb-23 01:43:04 - epoch: 6, training_loss: -0.108, time:0.077
+14-Feb-23 01:43:21 - epoch: 6, training task loss: 2.652030457645151, test loss : 3.6054042122659107, val loss: 2.6643955050401655
+14-Feb-23 01:43:22 - Training time for this epoch: 0.078
+14-Feb-23 01:43:22 - epoch: 7, training_loss: -0.103, time:0.079
+14-Feb-23 01:43:40 - epoch: 7, training task loss: 2.631903816775126, test loss : 3.580690362579846, val loss: 2.644434124012884
+14-Feb-23 01:43:40 - Training time for this epoch: 0.083
+14-Feb-23 01:43:40 - epoch: 8, training_loss: -0.095, time:0.083
+14-Feb-23 01:43:58 - epoch: 8, training task loss: 2.6118911480898817, test loss : 3.5603064798148996, val loss: 2.6250457886821863
+14-Feb-23 01:43:58 - Training time for this epoch: 0.070
+14-Feb-23 01:43:58 - epoch: 9, training_loss: -0.082, time:0.072
+14-Feb-23 01:44:16 - epoch: 9, training task loss: 2.594509797873105, test loss : 3.5450055599985766, val loss: 2.609102529582052
+14-Feb-23 01:44:16 - Training time for this epoch: 0.074
+14-Feb-23 01:44:16 - epoch: 10, training_loss: -0.065, time:0.075
+14-Feb-23 01:44:32 - epoch: 10, training task loss: 2.5804952376692856, test loss : 3.5333893437378547, val loss: 2.5962710534331936
+14-Feb-23 01:44:32 - Training time for this epoch: 0.060
+14-Feb-23 01:44:32 - epoch: 11, training_loss: -0.064, time:0.060
+14-Feb-23 01:44:49 - epoch: 11, training task loss: 2.569207880280455, test loss : 3.5243478666142622, val loss: 2.5871472638720086
+14-Feb-23 01:44:49 - Training time for this epoch: 0.097
+14-Feb-23 01:44:49 - epoch: 12, training_loss: -0.080, time:0.097
+14-Feb-23 01:45:05 - epoch: 12, training task loss: 2.557066303354781, test loss : 3.5174968275093463, val loss: 2.5764794602220107
+14-Feb-23 01:45:05 - Training time for this epoch: 0.068
+14-Feb-23 01:45:05 - epoch: 13, training_loss: -0.049, time:0.068
+14-Feb-23 01:45:21 - epoch: 13, training task loss: 2.5481376730491028, test loss : 3.513215662590043, val loss: 2.5691987412864696
+14-Feb-23 01:45:22 - Training time for this epoch: 0.066
+14-Feb-23 01:45:22 - epoch: 14, training_loss: -0.053, time:0.066
+14-Feb-23 01:45:37 - epoch: 14, training task loss: 2.539081964433655, test loss : 3.5097222165577477, val loss: 2.561782802534928
+14-Feb-23 01:45:37 - Training time for this epoch: 0.128
+14-Feb-23 01:45:37 - epoch: 15, training_loss: -0.033, time:0.129
+14-Feb-23 01:45:54 - epoch: 15, training task loss: 2.531571628993967, test loss : 3.5076497747287174, val loss: 2.556018564525997
+14-Feb-23 01:45:54 - Training time for this epoch: 0.070
+14-Feb-23 01:45:54 - epoch: 16, training_loss: -0.045, time:0.071
+14-Feb-23 01:46:12 - epoch: 16, training task loss: 2.526315892792688, test loss : 3.5064140704058078, val loss: 2.5518062912477495
+14-Feb-23 01:46:12 - Training time for this epoch: 0.094
+14-Feb-23 01:46:12 - epoch: 17, training_loss: -0.036, time:0.095
+14-Feb-23 01:46:30 - epoch: 17, training task loss: 2.520146903002847, test loss : 3.5055670399434833, val loss: 2.54730572379348
+14-Feb-23 01:46:30 - Training time for this epoch: 0.103
+14-Feb-23 01:46:30 - epoch: 18, training_loss: -0.033, time:0.104
+14-Feb-23 01:46:47 - epoch: 18, training task loss: 2.5153289598407875, test loss : 3.505003213510214, val loss: 2.5435611463605436
+14-Feb-23 01:46:47 - Training time for this epoch: 0.110
+14-Feb-23 01:46:47 - epoch: 19, training_loss: -0.022, time:0.112
+14-Feb-23 01:47:05 - epoch: 19, training task loss: 2.5106811958622934, test loss : 3.505134132236074, val loss: 2.5397801759963574
+14-Feb-23 01:47:05 - Training time for this epoch: 0.088
+14-Feb-23 01:47:05 - epoch: 20, training_loss: -0.009, time:0.089
+14-Feb-23 01:47:23 - epoch: 20, training task loss: 2.508637013652515, test loss : 3.5053049401923997, val loss: 2.5379918636314045
+14-Feb-23 01:47:23 - Training time for this epoch: 0.096
+14-Feb-23 01:47:23 - epoch: 21, training_loss: -0.018, time:0.096
+14-Feb-23 01:47:40 - epoch: 21, training task loss: 2.5057077891233814, test loss : 3.5055850396031607, val loss: 2.5354651951396567
+14-Feb-23 01:47:40 - Training time for this epoch: 0.067
+14-Feb-23 01:47:40 - epoch: 22, training_loss: -0.005, time:0.067
+14-Feb-23 01:47:55 - epoch: 22, training task loss: 2.503686589074383, test loss : 3.5057895389374423, val loss: 2.5337443062500205
+14-Feb-23 01:47:55 - Training time for this epoch: 0.089
+14-Feb-23 01:47:55 - epoch: 23, training_loss: 0.007, time:0.089
+14-Feb-23 01:48:11 - epoch: 23, training task loss: 2.5011039227394307, test loss : 3.505918826538604, val loss: 2.531847100434878
+14-Feb-23 01:48:11 - Training time for this epoch: 0.069
+14-Feb-23 01:48:11 - epoch: 24, training_loss: -0.005, time:0.070
+14-Feb-23 01:48:28 - epoch: 24, training task loss: 2.5000981968551095, test loss : 3.506187790794522, val loss: 2.5315915487297276
+14-Feb-23 01:48:28 - Training time for this epoch: 0.082
+14-Feb-23 01:48:28 - epoch: 25, training_loss: -0.016, time:0.083
+14-Feb-23 01:48:45 - epoch: 25, training task loss: 2.498852529411767, test loss : 3.5071438112100686, val loss: 2.530083004749139
+14-Feb-23 01:48:46 - Training time for this epoch: 0.067
+14-Feb-23 01:48:46 - epoch: 26, training_loss: -0.018, time:0.068
+14-Feb-23 01:49:04 - epoch: 26, training task loss: 2.4961502787930523, test loss : 3.508123080971157, val loss: 2.527609952931766
+14-Feb-23 01:49:04 - Training time for this epoch: 0.123
+14-Feb-23 01:49:04 - epoch: 27, training_loss: -0.014, time:0.124
+14-Feb-23 01:49:21 - epoch: 27, training task loss: 2.4951158912939224, test loss : 3.5081080048001567, val loss: 2.527093014453727
+14-Feb-23 01:49:21 - Training time for this epoch: 0.091
+14-Feb-23 01:49:21 - epoch: 28, training_loss: -0.003, time:0.092
+14-Feb-23 01:49:40 - epoch: 28, training task loss: 2.4950398180788915, test loss : 3.5078700414266315, val loss: 2.526303194453871
+14-Feb-23 01:49:40 - Training time for this epoch: 0.069
+14-Feb-23 01:49:40 - epoch: 29, training_loss: 0.001, time:0.070
+14-Feb-23 01:49:58 - epoch: 29, training task loss: 2.4942520801122954, test loss : 3.508457608327367, val loss: 2.5254837610128984
+14-Feb-23 01:49:58 - Training time for this epoch: 0.067
+14-Feb-23 01:49:58 - epoch: 30, training_loss: -0.013, time:0.068
+14-Feb-23 01:50:13 - epoch: 30, training task loss: 2.4930549469216063, test loss : 3.5092686650350613, val loss: 2.524220678610318
+14-Feb-23 01:50:13 - Training time for this epoch: 0.104
+14-Feb-23 01:50:13 - epoch: 31, training_loss: -0.005, time:0.104
+14-Feb-23 01:50:29 - epoch: 31, training task loss: 2.4930935825527936, test loss : 3.5098615482541176, val loss: 2.5239643702949195
+14-Feb-23 01:50:29 - Training time for this epoch: 0.090
+14-Feb-23 01:50:29 - epoch: 32, training_loss: -0.022, time:0.090
+14-Feb-23 01:50:45 - epoch: 32, training task loss: 2.489839563584824, test loss : 3.51111621895507, val loss: 2.52158675177746
+14-Feb-23 01:50:45 - Training time for this epoch: 0.069
+14-Feb-23 01:50:45 - epoch: 33, training_loss: -0.003, time:0.070
+14-Feb-23 01:51:02 - epoch: 33, training task loss: 2.488708417343469, test loss : 3.511415577920797, val loss: 2.521301366597922
+14-Feb-23 01:51:02 - Training time for this epoch: 0.105
+14-Feb-23 01:51:02 - epoch: 34, training_loss: 0.002, time:0.106
+14-Feb-23 01:51:17 - epoch: 34, training task loss: 2.4888708616480852, test loss : 3.510755745278501, val loss: 2.5212864218219035
+14-Feb-23 01:51:17 - Training time for this epoch: 0.070
+14-Feb-23 01:51:17 - epoch: 35, training_loss: 0.014, time:0.070
+14-Feb-23 01:51:35 - epoch: 35, training task loss: 2.4901065863302327, test loss : 3.5097814747813176, val loss: 2.5218388988272586
+14-Feb-23 01:51:35 - Training time for this epoch: 0.103
+14-Feb-23 01:51:35 - epoch: 36, training_loss: -0.016, time:0.104
+14-Feb-23 01:51:52 - epoch: 36, training task loss: 2.487498159730243, test loss : 3.5099845681009443, val loss: 2.5201878366155737
+14-Feb-23 01:51:52 - Training time for this epoch: 0.106
+14-Feb-23 01:51:52 - epoch: 37, training_loss: -0.001, time:0.106
+14-Feb-23 01:52:08 - epoch: 37, training task loss: 2.4877365657443464, test loss : 3.5101241375788885, val loss: 2.520799118338892
+14-Feb-23 01:52:08 - Training time for this epoch: 0.069
+14-Feb-23 01:52:08 - epoch: 38, training_loss: -0.012, time:0.069
+14-Feb-23 01:52:24 - epoch: 38, training task loss: 2.48708923765718, test loss : 3.5106241470799686, val loss: 2.5207980907242638
+14-Feb-23 01:52:24 - Training time for this epoch: 0.068
+14-Feb-23 01:52:24 - epoch: 39, training_loss: -0.009, time:0.072
+14-Feb-23 01:52:40 - epoch: 39, training task loss: 2.485981454802893, test loss : 3.5104385137442122, val loss: 2.5197667389105773
+14-Feb-23 01:52:40 - Training time for this epoch: 0.086
+14-Feb-23 01:52:40 - epoch: 40, training_loss: -0.009, time:0.086
+14-Feb-23 01:52:59 - epoch: 40, training task loss: 2.486324004448311, test loss : 3.5100632237806284, val loss: 2.520241995910893
+14-Feb-23 01:52:59 - Training time for this epoch: 0.067
+14-Feb-23 01:52:59 - epoch: 41, training_loss: 0.019, time:0.068
+14-Feb-23 01:53:18 - epoch: 41, training task loss: 2.4857037063582377, test loss : 3.5099158027501396, val loss: 2.519881705345589
+14-Feb-23 01:53:18 - Training time for this epoch: 0.073
+14-Feb-23 01:53:18 - epoch: 42, training_loss: 0.013, time:0.074
+14-Feb-23 01:53:36 - epoch: 42, training task loss: 2.4860335594275442, test loss : 3.5101652130644694, val loss: 2.5197471274625745
+14-Feb-23 01:53:36 - Training time for this epoch: 0.081
+14-Feb-23 01:53:36 - epoch: 43, training_loss: 0.015, time:0.081
+14-Feb-23 01:53:54 - epoch: 43, training task loss: 2.487290751669629, test loss : 3.5093749076264023, val loss: 2.5209172676641574
+14-Feb-23 01:53:54 - Training time for this epoch: 0.073
+14-Feb-23 01:53:54 - epoch: 44, training_loss: -0.006, time:0.074
+14-Feb-23 01:54:13 - epoch: 44, training task loss: 2.48743675135351, test loss : 3.5088140028490886, val loss: 2.5212020319847217
+14-Feb-23 01:54:13 - Training time for this epoch: 0.068
+14-Feb-23 01:54:13 - epoch: 45, training_loss: 0.002, time:0.068
+14-Feb-23 01:54:33 - epoch: 45, training task loss: 2.486726576792022, test loss : 3.509249417264568, val loss: 2.5204778254667954
+14-Feb-23 01:54:33 - Training time for this epoch: 0.068
+14-Feb-23 01:54:33 - epoch: 46, training_loss: 0.005, time:0.069
+14-Feb-23 01:54:51 - epoch: 46, training task loss: 2.4870683255764714, test loss : 3.50884117361229, val loss: 2.5208273706285733
+14-Feb-23 01:54:51 - Training time for this epoch: 0.067
+14-Feb-23 01:54:51 - epoch: 47, training_loss: 0.004, time:0.067
+14-Feb-23 01:55:07 - epoch: 47, training task loss: 2.488145571354436, test loss : 3.5084266362200176, val loss: 2.521628878826956
+14-Feb-23 01:55:07 - Training time for this epoch: 0.114
+14-Feb-23 01:55:07 - epoch: 48, training_loss: -0.003, time:0.115
+14-Feb-23 01:55:25 - epoch: 48, training task loss: 2.4877616748069418, test loss : 3.5081853646284884, val loss: 2.521408078219197
+14-Feb-23 01:55:25 - Training time for this epoch: 0.138
+14-Feb-23 01:55:25 - epoch: 49, training_loss: -0.012, time:0.139
+14-Feb-23 01:55:40 - epoch: 49, training task loss: 2.4864991096111217, test loss : 3.5082991128604526, val loss: 2.5200147905022874
+14-Feb-23 01:55:40 - 7-th run
+14-Feb-23 01:55:55 - Training time for this epoch: 0.071
+14-Feb-23 01:55:55 - epoch: 0, training_loss: 53.799, time:0.072
+14-Feb-23 01:56:10 - epoch: 0, training task loss: 2.990462688701959, test loss : 3.769045223883151, val loss: 2.9754536388312682
+14-Feb-23 01:56:10 - Training time for this epoch: 0.067
+14-Feb-23 01:56:10 - epoch: 1, training_loss: -0.462, time:0.068
+14-Feb-23 01:56:25 - epoch: 1, training task loss: 2.8691194775902202, test loss : 3.6872859252513677, val loss: 2.8660898956611485
+14-Feb-23 01:56:25 - Training time for this epoch: 0.069
+14-Feb-23 01:56:25 - epoch: 2, training_loss: -0.284, time:0.069
+14-Feb-23 01:56:40 - epoch: 2, training task loss: 2.7847352222026083, test loss : 3.6276222278285193, val loss: 2.78961951829087
+14-Feb-23 01:56:40 - Training time for this epoch: 0.069
+14-Feb-23 01:56:40 - epoch: 3, training_loss: -0.227, time:0.069
+14-Feb-23 01:56:55 - epoch: 3, training task loss: 2.723690644631827, test loss : 3.5881817095425492, val loss: 2.735579479161888
+14-Feb-23 01:56:55 - Training time for this epoch: 0.067
+14-Feb-23 01:56:55 - epoch: 4, training_loss: -0.179, time:0.068
+14-Feb-23 01:57:10 - epoch: 4, training task loss: 2.6765517043314033, test loss : 3.5621762607464076, val loss: 2.6934287869483695
+14-Feb-23 01:57:10 - Training time for this epoch: 0.068
+14-Feb-23 01:57:10 - epoch: 5, training_loss: -0.153, time:0.068
+14-Feb-23 01:57:25 - epoch: 5, training task loss: 2.6418075554332505, test loss : 3.5453809526399986, val loss: 2.6618292525586607
+14-Feb-23 01:57:25 - Training time for this epoch: 0.140
+14-Feb-23 01:57:25 - epoch: 6, training_loss: -0.131, time:0.140
+14-Feb-23 01:57:41 - epoch: 6, training task loss: 2.6100061999685686, test loss : 3.535022018740087, val loss: 2.6335066628770245
+14-Feb-23 01:57:41 - Training time for this epoch: 0.103
+14-Feb-23 01:57:41 - epoch: 7, training_loss: -0.116, time:0.105
+14-Feb-23 01:57:56 - epoch: 7, training task loss: 2.5866268258710567, test loss : 3.5305907961999283, val loss: 2.613336503492251
+14-Feb-23 01:57:56 - Training time for this epoch: 0.083
+14-Feb-23 01:57:56 - epoch: 8, training_loss: -0.079, time:0.084
+14-Feb-23 01:58:13 - epoch: 8, training task loss: 2.5685697551281477, test loss : 3.5290546455012795, val loss: 2.5976068495514424
+14-Feb-23 01:58:13 - Training time for this epoch: 0.066
+14-Feb-23 01:58:13 - epoch: 9, training_loss: -0.067, time:0.067
+14-Feb-23 01:58:29 - epoch: 9, training task loss: 2.553298408691727, test loss : 3.5279942624778196, val loss: 2.58396245419765
+14-Feb-23 01:58:30 - Training time for this epoch: 0.123
+14-Feb-23 01:58:30 - epoch: 10, training_loss: -0.048, time:0.124
+14-Feb-23 01:58:45 - epoch: 10, training task loss: 2.5425664602644096, test loss : 3.5288342468665244, val loss: 2.5747601548410417
+14-Feb-23 01:58:45 - Training time for this epoch: 0.069
+14-Feb-23 01:58:45 - epoch: 11, training_loss: -0.062, time:0.069
+14-Feb-23 01:59:00 - epoch: 11, training task loss: 2.5333708008145175, test loss : 3.532617773942774, val loss: 2.5674608509226178
+14-Feb-23 01:59:00 - Training time for this epoch: 0.067
+14-Feb-23 01:59:00 - epoch: 12, training_loss: -0.061, time:0.067
+14-Feb-23 01:59:16 - epoch: 12, training task loss: 2.5244115319708333, test loss : 3.537518257422734, val loss: 2.5606503401644165
+14-Feb-23 01:59:16 - Training time for this epoch: 0.065
+14-Feb-23 01:59:16 - epoch: 13, training_loss: -0.038, time:0.065
+14-Feb-23 01:59:32 - epoch: 13, training task loss: 2.516312539934178, test loss : 3.5436456580951337, val loss: 2.555197040748952
+14-Feb-23 01:59:32 - Training time for this epoch: 0.078
+14-Feb-23 01:59:32 - epoch: 14, training_loss: -0.054, time:0.078
+14-Feb-23 01:59:49 - epoch: 14, training task loss: 2.5106736402618246, test loss : 3.549206375088723, val loss: 2.5522885894183425
+14-Feb-23 01:59:49 - Training time for this epoch: 0.136
+14-Feb-23 01:59:49 - epoch: 15, training_loss: -0.047, time:0.137
+14-Feb-23 02:00:06 - epoch: 15, training task loss: 2.503865014554045, test loss : 3.5551546505941563, val loss: 2.548359316611199
+14-Feb-23 02:00:06 - Training time for this epoch: 0.115
+14-Feb-23 02:00:06 - epoch: 16, training_loss: -0.030, time:0.117
+14-Feb-23 02:00:23 - epoch: 16, training task loss: 2.5013158021726074, test loss : 3.5575610689994326, val loss: 2.547242079660248
+14-Feb-23 02:00:23 - Training time for this epoch: 0.074
+14-Feb-23 02:00:23 - epoch: 17, training_loss: -0.024, time:0.075
+14-Feb-23 02:00:39 - epoch: 17, training task loss: 2.4980110119419447, test loss : 3.5622679279743816, val loss: 2.5451725229238225
+14-Feb-23 02:00:39 - Training time for this epoch: 0.087
+14-Feb-23 02:00:39 - epoch: 18, training_loss: -0.030, time:0.088
+14-Feb-23 02:00:54 - epoch: 18, training task loss: 2.4959562603034118, test loss : 3.566264440634649, val loss: 2.544214556496992
+14-Feb-23 02:00:54 - Training time for this epoch: 0.081
+14-Feb-23 02:00:54 - epoch: 19, training_loss: -0.029, time:0.082
+14-Feb-23 02:01:09 - epoch: 19, training task loss: 2.4931453113498883, test loss : 3.5711133891324858, val loss: 2.543130913538518
+14-Feb-23 02:01:09 - Training time for this epoch: 0.074
+14-Feb-23 02:01:09 - epoch: 20, training_loss: -0.019, time:0.075
+14-Feb-23 02:01:23 - epoch: 20, training task loss: 2.4899102768649404, test loss : 3.5797412679489606, val loss: 2.543068176428477
+14-Feb-23 02:01:23 - Training time for this epoch: 0.068
+14-Feb-23 02:01:23 - epoch: 21, training_loss: -0.003, time:0.070
+14-Feb-23 02:01:38 - epoch: 21, training task loss: 2.4885083227879514, test loss : 3.5839612301852473, val loss: 2.5431233334593895
+14-Feb-23 02:01:39 - Training time for this epoch: 0.066
+14-Feb-23 02:01:39 - epoch: 22, training_loss: -0.027, time:0.067
+14-Feb-23 02:01:53 - epoch: 22, training task loss: 2.487366606837659, test loss : 3.5866613398166587, val loss: 2.5427895937320537
+14-Feb-23 02:01:54 - Training time for this epoch: 0.075
+14-Feb-23 02:01:54 - epoch: 23, training_loss: -0.002, time:0.075
+14-Feb-23 02:02:09 - epoch: 23, training task loss: 2.4867165982347865, test loss : 3.587669580680677, val loss: 2.5424113557281105
+14-Feb-23 02:02:09 - Training time for this epoch: 0.078
+14-Feb-23 02:02:09 - epoch: 24, training_loss: -0.009, time:0.079
+14-Feb-23 02:02:25 - epoch: 24, training task loss: 2.484875209322473, test loss : 3.5913106264688177, val loss: 2.542079694401301
+14-Feb-23 02:02:25 - Training time for this epoch: 0.069
+14-Feb-23 02:02:25 - epoch: 25, training_loss: -0.014, time:0.070
+14-Feb-23 02:02:41 - epoch: 25, training task loss: 2.4840698525341187, test loss : 3.594102827603517, val loss: 2.5425973553863113
+14-Feb-23 02:02:41 - Training time for this epoch: 0.087
+14-Feb-23 02:02:41 - epoch: 26, training_loss: -0.003, time:0.088
+14-Feb-23 02:02:58 - epoch: 26, training task loss: 2.4832559331996635, test loss : 3.5940555364095856, val loss: 2.5425453147241095
+14-Feb-23 02:02:58 - Training time for this epoch: 0.111
+14-Feb-23 02:02:58 - epoch: 27, training_loss: -0.007, time:0.112
+14-Feb-23 02:03:16 - epoch: 27, training task loss: 2.4836861540376054, test loss : 3.596047319824235, val loss: 2.543244486036017
+14-Feb-23 02:03:16 - Training time for this epoch: 0.141
+14-Feb-23 02:03:16 - epoch: 28, training_loss: 0.005, time:0.145
+14-Feb-23 02:03:32 - epoch: 28, training task loss: 2.4839726769130577, test loss : 3.5967008135052865, val loss: 2.5435302234990314
+14-Feb-23 02:03:32 - Training time for this epoch: 0.067
+14-Feb-23 02:03:32 - epoch: 29, training_loss: -0.015, time:0.067
+14-Feb-23 02:03:46 - epoch: 29, training task loss: 2.4827955546148113, test loss : 3.598604185453884, val loss: 2.5429184088119015
+14-Feb-23 02:03:46 - Training time for this epoch: 0.067
+14-Feb-23 02:03:46 - epoch: 30, training_loss: -0.016, time:0.068
+14-Feb-23 02:04:01 - epoch: 30, training task loss: 2.481937295928261, test loss : 3.5987180893813706, val loss: 2.5425434875717623
+14-Feb-23 02:04:01 - Training time for this epoch: 0.070
+14-Feb-23 02:04:01 - epoch: 31, training_loss: -0.016, time:0.071
+14-Feb-23 02:04:16 - epoch: 31, training task loss: 2.4815280783013316, test loss : 3.60137693403233, val loss: 2.5428126676392826
+14-Feb-23 02:04:16 - Training time for this epoch: 0.066
+14-Feb-23 02:04:16 - epoch: 32, training_loss: 0.031, time:0.067
+14-Feb-23 02:04:31 - epoch: 32, training task loss: 2.482737363222589, test loss : 3.6002099494687245, val loss: 2.5434422541661954
+14-Feb-23 02:04:31 - Training time for this epoch: 0.068
+14-Feb-23 02:04:31 - epoch: 33, training_loss: 0.004, time:0.069
+14-Feb-23 02:04:46 - epoch: 33, training task loss: 2.482980567462323, test loss : 3.5985195912959895, val loss: 2.543790105611979
+14-Feb-23 02:04:46 - Training time for this epoch: 0.100
+14-Feb-23 02:04:46 - epoch: 34, training_loss: 0.009, time:0.100
+14-Feb-23 02:05:01 - epoch: 34, training task loss: 2.484412129039842, test loss : 3.5937532705249424, val loss: 2.5448241020703377
+14-Feb-23 02:05:01 - Training time for this epoch: 0.060
+14-Feb-23 02:05:01 - epoch: 35, training_loss: 0.017, time:0.060
+14-Feb-23 02:05:17 - epoch: 35, training task loss: 2.4852610849637533, test loss : 3.5912211858243284, val loss: 2.5449056352154726
+14-Feb-23 02:05:17 - Training time for this epoch: 0.083
+14-Feb-23 02:05:17 - epoch: 36, training_loss: -0.006, time:0.084
+14-Feb-23 02:05:34 - epoch: 36, training task loss: 2.4845496636774125, test loss : 3.5900981576774553, val loss: 2.5443621278051536
+14-Feb-23 02:05:34 - Training time for this epoch: 0.073
+14-Feb-23 02:05:34 - epoch: 37, training_loss: 0.008, time:0.074
+14-Feb-23 02:05:52 - epoch: 37, training task loss: 2.4848855841521633, test loss : 3.5924738924243123, val loss: 2.5445867613665207
+14-Feb-23 02:05:52 - Training time for this epoch: 0.068
+14-Feb-23 02:05:52 - epoch: 38, training_loss: 0.020, time:0.068
+14-Feb-23 02:06:10 - epoch: 38, training task loss: 2.484978389935189, test loss : 3.590252782796396, val loss: 2.54405451962983
+14-Feb-23 02:06:11 - Training time for this epoch: 0.070
+14-Feb-23 02:06:11 - epoch: 39, training_loss: -0.004, time:0.071
+14-Feb-23 02:06:27 - epoch: 39, training task loss: 2.4849742057726623, test loss : 3.5912957857101278, val loss: 2.543986533609772
+14-Feb-23 02:06:27 - Training time for this epoch: 0.098
+14-Feb-23 02:06:27 - epoch: 40, training_loss: 0.012, time:0.098
+14-Feb-23 02:06:44 - epoch: 40, training task loss: 2.4852251496657476, test loss : 3.5904772856496856, val loss: 2.543977893039407
+14-Feb-23 02:06:44 - Training time for this epoch: 0.102
+14-Feb-23 02:06:44 - epoch: 41, training_loss: -0.017, time:0.102
+14-Feb-23 02:07:01 - epoch: 41, training task loss: 2.484558714644029, test loss : 3.5896913559883163, val loss: 2.543016235697221
+14-Feb-23 02:07:01 - Training time for this epoch: 0.111
+14-Feb-23 02:07:01 - epoch: 42, training_loss: 0.009, time:0.112
+14-Feb-23 02:07:18 - epoch: 42, training task loss: 2.484193967115154, test loss : 3.588116577795828, val loss: 2.543129317054551
+14-Feb-23 02:07:18 - Training time for this epoch: 0.077
+14-Feb-23 02:07:18 - epoch: 43, training_loss: 0.004, time:0.078
+14-Feb-23 02:07:34 - epoch: 43, training task loss: 2.4843778134266037, test loss : 3.587586107809073, val loss: 2.543846428456246
+14-Feb-23 02:07:34 - Training time for this epoch: 0.071
+14-Feb-23 02:07:34 - epoch: 44, training_loss: -0.006, time:0.072
+14-Feb-23 02:07:50 - epoch: 44, training task loss: 2.4846167747403043, test loss : 3.589437735069418, val loss: 2.544735721113641
+14-Feb-23 02:07:50 - Training time for this epoch: 0.103
+14-Feb-23 02:07:50 - epoch: 45, training_loss: 0.025, time:0.103
+14-Feb-23 02:08:08 - epoch: 45, training task loss: 2.485153606944632, test loss : 3.5879399862943915, val loss: 2.5445386970557387
+14-Feb-23 02:08:08 - Training time for this epoch: 0.098
+14-Feb-23 02:08:08 - epoch: 46, training_loss: 0.001, time:0.098
+14-Feb-23 02:08:25 - epoch: 46, training task loss: 2.4848600971774375, test loss : 3.5897481515097787, val loss: 2.544523663841244
+14-Feb-23 02:08:25 - Training time for this epoch: 0.120
+14-Feb-23 02:08:25 - epoch: 47, training_loss: -0.011, time:0.121
+14-Feb-23 02:08:42 - epoch: 47, training task loss: 2.484071925223995, test loss : 3.5913793349065264, val loss: 2.544124602072283
+14-Feb-23 02:08:42 - Training time for this epoch: 0.071
+14-Feb-23 02:08:42 - epoch: 48, training_loss: 0.005, time:0.071
+14-Feb-23 02:08:59 - epoch: 48, training task loss: 2.485267448595783, test loss : 3.5934011343146497, val loss: 2.5447090384019715
+14-Feb-23 02:08:59 - Training time for this epoch: 0.069
+14-Feb-23 02:08:59 - epoch: 49, training_loss: -0.000, time:0.069
+14-Feb-23 02:09:15 - epoch: 49, training task loss: 2.485717410681255, test loss : 3.5910928517843614, val loss: 2.5447258784620654
+14-Feb-23 02:09:15 - 8-th run
+14-Feb-23 02:09:48 - Training time for this epoch: 0.073
+14-Feb-23 02:09:48 - epoch: 0, training_loss: 65.117, time:0.074
+14-Feb-23 02:10:05 - epoch: 0, training task loss: 3.6957286573811925, test loss : 4.978353147145665, val loss: 3.6149578127926567
+14-Feb-23 02:10:05 - Training time for this epoch: 0.069
+14-Feb-23 02:10:05 - epoch: 1, training_loss: -0.390, time:0.070
+14-Feb-23 02:10:24 - epoch: 1, training task loss: 3.5542936712110653, test loss : 4.732354792247422, val loss: 3.465216267581011
+14-Feb-23 02:10:24 - Training time for this epoch: 0.087
+14-Feb-23 02:10:24 - epoch: 2, training_loss: -0.346, time:0.088
+14-Feb-23 02:10:42 - epoch: 2, training task loss: 3.454434700505853, test loss : 4.580865189058723, val loss: 3.3614605742893717
+14-Feb-23 02:10:42 - Training time for this epoch: 0.071
+14-Feb-23 02:10:42 - epoch: 3, training_loss: -0.255, time:0.073
+14-Feb-23 02:11:00 - epoch: 3, training task loss: 3.3824814568659454, test loss : 4.482311667734663, val loss: 3.2881120925291776
+14-Feb-23 02:11:00 - Training time for this epoch: 0.067
+14-Feb-23 02:11:00 - epoch: 4, training_loss: -0.194, time:0.068
+14-Feb-23 02:11:20 - epoch: 4, training task loss: 3.3231778215718855, test loss : 4.413493022303719, val loss: 3.2286382754602894
+14-Feb-23 02:11:20 - Training time for this epoch: 0.073
+14-Feb-23 02:11:20 - epoch: 5, training_loss: -0.176, time:0.074
+14-Feb-23 02:11:37 - epoch: 5, training task loss: 3.272876166247843, test loss : 4.360728017025778, val loss: 3.1783493743485263
+14-Feb-23 02:11:37 - Training time for this epoch: 0.068
+14-Feb-23 02:11:37 - epoch: 6, training_loss: -0.153, time:0.068
+14-Feb-23 02:11:57 - epoch: 6, training task loss: 3.231822303812889, test loss : 4.3263156055425185, val loss: 3.1371801910474755
+14-Feb-23 02:11:57 - Training time for this epoch: 0.094
+14-Feb-23 02:11:57 - epoch: 7, training_loss: -0.120, time:0.096
+14-Feb-23 02:12:18 - epoch: 7, training task loss: 3.198818179558301, test loss : 4.302725345468236, val loss: 3.1038481372188187
+14-Feb-23 02:12:18 - Training time for this epoch: 0.077
+14-Feb-23 02:12:18 - epoch: 8, training_loss: -0.119, time:0.078
+14-Feb-23 02:12:35 - epoch: 8, training task loss: 3.1705498897947786, test loss : 4.286984622295447, val loss: 3.075587029100496
+14-Feb-23 02:12:36 - Training time for this epoch: 0.072
+14-Feb-23 02:12:36 - epoch: 9, training_loss: -0.087, time:0.073
+14-Feb-23 02:12:55 - epoch: 9, training task loss: 3.1452450054425816, test loss : 4.27638981251085, val loss: 3.0504845059965184
+14-Feb-23 02:12:55 - Training time for this epoch: 0.068
+14-Feb-23 02:12:55 - epoch: 10, training_loss: -0.098, time:0.068
+14-Feb-23 02:13:13 - epoch: 10, training task loss: 3.1265526506021204, test loss : 4.268871808752593, val loss: 3.031508277241751
+14-Feb-23 02:13:13 - Training time for this epoch: 0.102
+14-Feb-23 02:13:13 - epoch: 11, training_loss: -0.053, time:0.102
+14-Feb-23 02:13:31 - epoch: 11, training task loss: 3.112666214130711, test loss : 4.264334868058468, val loss: 3.017431964995018
+14-Feb-23 02:13:31 - Training time for this epoch: 0.068
+14-Feb-23 02:13:31 - epoch: 12, training_loss: -0.079, time:0.069
+14-Feb-23 02:13:49 - epoch: 12, training task loss: 3.096248661382504, test loss : 4.2613217661742135, val loss: 3.0010953288352384
+14-Feb-23 02:13:49 - Training time for this epoch: 0.071
+14-Feb-23 02:13:49 - epoch: 13, training_loss: -0.055, time:0.071
+14-Feb-23 02:14:05 - epoch: 13, training task loss: 3.0823279151319647, test loss : 4.261406902513157, val loss: 2.987553338658529
+14-Feb-23 02:14:06 - Training time for this epoch: 0.073
+14-Feb-23 02:14:06 - epoch: 14, training_loss: -0.058, time:0.073
+14-Feb-23 02:14:23 - epoch: 14, training task loss: 3.0721664212114916, test loss : 4.261959357513241, val loss: 2.977261677515802
+14-Feb-23 02:14:23 - Training time for this epoch: 0.074
+14-Feb-23 02:14:23 - epoch: 15, training_loss: -0.045, time:0.075
+14-Feb-23 02:14:40 - epoch: 15, training task loss: 3.063610989256574, test loss : 4.263159130995097, val loss: 2.9688339759885283
+14-Feb-23 02:14:40 - Training time for this epoch: 0.070
+14-Feb-23 02:14:40 - epoch: 16, training_loss: -0.047, time:0.071
+14-Feb-23 02:14:57 - epoch: 16, training task loss: 3.0562633705394573, test loss : 4.265943416784847, val loss: 2.9612853447638106
+14-Feb-23 02:14:57 - Training time for this epoch: 0.067
+14-Feb-23 02:14:57 - epoch: 17, training_loss: -0.028, time:0.068
+14-Feb-23 02:15:18 - epoch: 17, training task loss: 3.050446670019606, test loss : 4.266009309701193, val loss: 2.955819665446078
+14-Feb-23 02:15:18 - Training time for this epoch: 0.066
+14-Feb-23 02:15:18 - epoch: 18, training_loss: -0.038, time:0.067
+14-Feb-23 02:15:52 - epoch: 18, training task loss: 3.0426807735254036, test loss : 4.266211782974988, val loss: 2.9482769475188477
+14-Feb-23 02:15:53 - Training time for this epoch: 0.097
+14-Feb-23 02:15:53 - epoch: 19, training_loss: -0.016, time:0.099
+14-Feb-23 02:16:10 - epoch: 19, training task loss: 3.037261958734617, test loss : 4.266309787570391, val loss: 2.9431764533750457
+14-Feb-23 02:16:10 - Training time for this epoch: 0.078
+14-Feb-23 02:16:10 - epoch: 20, training_loss: -0.036, time:0.079
+14-Feb-23 02:16:28 - epoch: 20, training task loss: 3.0325075364471705, test loss : 4.265627693510802, val loss: 2.938394049077446
+14-Feb-23 02:16:28 - Training time for this epoch: 0.067
+14-Feb-23 02:16:28 - epoch: 21, training_loss: -0.031, time:0.068
+14-Feb-23 02:16:46 - epoch: 21, training task loss: 3.0242419529921327, test loss : 4.269746853693031, val loss: 2.930216651302768
+14-Feb-23 02:16:46 - Training time for this epoch: 0.079
+14-Feb-23 02:16:46 - epoch: 22, training_loss: -0.023, time:0.079
+14-Feb-23 02:17:01 - epoch: 22, training task loss: 3.020062632452125, test loss : 4.273373954302707, val loss: 2.9260031840005345
+14-Feb-23 02:17:01 - Training time for this epoch: 0.071
+14-Feb-23 02:17:01 - epoch: 23, training_loss: -0.020, time:0.071
+14-Feb-23 02:17:19 - epoch: 23, training task loss: 3.0177931950100714, test loss : 4.274230761882134, val loss: 2.923791226376165
+14-Feb-23 02:17:19 - Training time for this epoch: 0.080
+14-Feb-23 02:17:19 - epoch: 24, training_loss: -0.021, time:0.080
+14-Feb-23 02:17:37 - epoch: 24, training task loss: 3.0149747252454953, test loss : 4.279430238520387, val loss: 2.920375402490496
+14-Feb-23 02:17:38 - Training time for this epoch: 0.081
+14-Feb-23 02:17:38 - epoch: 25, training_loss: -0.016, time:0.081
+14-Feb-23 02:17:53 - epoch: 25, training task loss: 3.012328747021117, test loss : 4.280697483522193, val loss: 2.917816477552848
+14-Feb-23 02:17:53 - Training time for this epoch: 0.102
+14-Feb-23 02:17:53 - epoch: 26, training_loss: -0.007, time:0.103
+14-Feb-23 02:18:09 - epoch: 26, training task loss: 3.0093573685800625, test loss : 4.282314483311424, val loss: 2.9150354770096403
+14-Feb-23 02:18:09 - Training time for this epoch: 0.102
+14-Feb-23 02:18:09 - epoch: 27, training_loss: -0.023, time:0.103
+14-Feb-23 02:18:24 - epoch: 27, training task loss: 3.0069424305278876, test loss : 4.284771814536464, val loss: 2.9125140701356464
+14-Feb-23 02:18:24 - Training time for this epoch: 0.071
+14-Feb-23 02:18:24 - epoch: 28, training_loss: 0.011, time:0.072
+14-Feb-23 02:18:40 - epoch: 28, training task loss: 3.006500999511136, test loss : 4.287204610807121, val loss: 2.9118126318773143
+14-Feb-23 02:18:40 - Training time for this epoch: 0.072
+14-Feb-23 02:18:40 - epoch: 29, training_loss: -0.014, time:0.072
+14-Feb-23 02:18:59 - epoch: 29, training task loss: 3.003807566177268, test loss : 4.289720153134331, val loss: 2.9092614963504553
+14-Feb-23 02:18:59 - Training time for this epoch: 0.106
+14-Feb-23 02:18:59 - epoch: 30, training_loss: -0.007, time:0.106
+14-Feb-23 02:19:14 - epoch: 30, training task loss: 3.0031128017113753, test loss : 4.290014464327193, val loss: 2.9087729301367427
+14-Feb-23 02:19:15 - Training time for this epoch: 0.072
+14-Feb-23 02:19:15 - epoch: 31, training_loss: 0.014, time:0.072
+14-Feb-23 02:19:31 - epoch: 31, training task loss: 3.0045199409235703, test loss : 4.289937788142952, val loss: 2.9100984023186856
+14-Feb-23 02:19:31 - Training time for this epoch: 0.067
+14-Feb-23 02:19:31 - epoch: 32, training_loss: -0.005, time:0.067
+14-Feb-23 02:19:47 - epoch: 32, training task loss: 3.0049436383052135, test loss : 4.293223771513, val loss: 2.9101782068855537
+14-Feb-23 02:19:47 - Training time for this epoch: 0.079
+14-Feb-23 02:19:47 - epoch: 33, training_loss: -0.011, time:0.080
+14-Feb-23 02:20:02 - epoch: 33, training task loss: 3.0044614944354633, test loss : 4.294199936833564, val loss: 2.9095698597803943
+14-Feb-23 02:20:02 - Training time for this epoch: 0.066
+14-Feb-23 02:20:02 - epoch: 34, training_loss: -0.003, time:0.066
+14-Feb-23 02:20:17 - epoch: 34, training task loss: 3.004869812159616, test loss : 4.293304923543556, val loss: 2.9101000445652714
+14-Feb-23 02:20:17 - Training time for this epoch: 0.059
+14-Feb-23 02:20:17 - epoch: 35, training_loss: -0.001, time:0.059
+14-Feb-23 02:20:34 - epoch: 35, training task loss: 3.0029486876552625, test loss : 4.294175177043797, val loss: 2.9083994181440618
+14-Feb-23 02:20:34 - Training time for this epoch: 0.073
+14-Feb-23 02:20:34 - epoch: 36, training_loss: -0.001, time:0.073
+14-Feb-23 02:20:49 - epoch: 36, training task loss: 3.003358543038341, test loss : 4.295774705255406, val loss: 2.908592043373708
+14-Feb-23 02:20:49 - Training time for this epoch: 0.073
+14-Feb-23 02:20:49 - epoch: 37, training_loss: 0.007, time:0.073
+14-Feb-23 02:21:05 - epoch: 37, training task loss: 3.004253270565237, test loss : 4.297376421060355, val loss: 2.909099381996424
+14-Feb-23 02:21:05 - Training time for this epoch: 0.068
+14-Feb-23 02:21:05 - epoch: 38, training_loss: -0.014, time:0.068
+14-Feb-23 02:21:20 - epoch: 38, training task loss: 3.004285987042241, test loss : 4.299049710350795, val loss: 2.9088244670913275
+14-Feb-23 02:21:20 - Training time for this epoch: 0.080
+14-Feb-23 02:21:20 - epoch: 39, training_loss: 0.002, time:0.080
+14-Feb-23 02:21:38 - epoch: 39, training task loss: 3.0042318204714817, test loss : 4.298383412096071, val loss: 2.9086100738895757
+14-Feb-23 02:21:38 - Training time for this epoch: 0.068
+14-Feb-23 02:21:38 - epoch: 40, training_loss: -0.006, time:0.068
+14-Feb-23 02:21:54 - epoch: 40, training task loss: 3.0031767363174335, test loss : 4.300130717026624, val loss: 2.907675374535521
+14-Feb-23 02:21:54 - Training time for this epoch: 0.071
+14-Feb-23 02:21:54 - epoch: 41, training_loss: 0.003, time:0.072
+14-Feb-23 02:22:09 - epoch: 41, training task loss: 3.004451640938933, test loss : 4.301394677690851, val loss: 2.9084301350425474
+14-Feb-23 02:22:09 - Training time for this epoch: 0.073
+14-Feb-23 02:22:09 - epoch: 42, training_loss: 0.019, time:0.073
+14-Feb-23 02:22:25 - epoch: 42, training task loss: 3.007359033402377, test loss : 4.2989353742326575, val loss: 2.9112798716018107
+14-Feb-23 02:22:25 - Training time for this epoch: 0.067
+14-Feb-23 02:22:25 - epoch: 43, training_loss: 0.006, time:0.067
+14-Feb-23 02:22:43 - epoch: 43, training task loss: 3.0088782547536193, test loss : 4.299099604575344, val loss: 2.912691314686898
+14-Feb-23 02:22:43 - Training time for this epoch: 0.069
+14-Feb-23 02:22:43 - epoch: 44, training_loss: -0.019, time:0.070
+14-Feb-23 02:23:00 - epoch: 44, training task loss: 3.0068882564159924, test loss : 4.298972536129863, val loss: 2.910994764572851
+14-Feb-23 02:23:00 - Training time for this epoch: 0.068
+14-Feb-23 02:23:00 - epoch: 45, training_loss: -0.009, time:0.069
+14-Feb-23 02:23:18 - epoch: 45, training task loss: 3.0062438653968355, test loss : 4.300979406418422, val loss: 2.9100888550361983
+14-Feb-23 02:23:18 - Training time for this epoch: 0.063
+14-Feb-23 02:23:18 - epoch: 46, training_loss: -0.005, time:0.064
+14-Feb-23 02:23:34 - epoch: 46, training task loss: 3.006172393125712, test loss : 4.299914122386694, val loss: 2.9101247918051456
+14-Feb-23 02:23:34 - Training time for this epoch: 0.071
+14-Feb-23 02:23:34 - epoch: 47, training_loss: 0.001, time:0.072
+14-Feb-23 02:23:49 - epoch: 47, training task loss: 3.0081816654348064, test loss : 4.297939030288243, val loss: 2.9121515125799426
+14-Feb-23 02:23:49 - Training time for this epoch: 0.080
+14-Feb-23 02:23:49 - epoch: 48, training_loss: 0.008, time:0.081
+14-Feb-23 02:24:06 - epoch: 48, training task loss: 3.00810634150423, test loss : 4.299304010523869, val loss: 2.9116866120402243
+14-Feb-23 02:24:06 - Training time for this epoch: 0.122
+14-Feb-23 02:24:06 - epoch: 49, training_loss: 0.003, time:0.123
+14-Feb-23 02:24:25 - epoch: 49, training task loss: 3.0093827091495617, test loss : 4.297085542663805, val loss: 2.9128627122674096
+14-Feb-23 02:24:25 - 9-th run
+14-Feb-23 02:24:48 - Training time for this epoch: 0.089
+14-Feb-23 02:24:48 - epoch: 0, training_loss: 56.564, time:0.090
+14-Feb-23 02:25:05 - epoch: 0, training task loss: 3.0863218877702487, test loss : 4.385088391979673, val loss: 3.0747163787514995
+14-Feb-23 02:25:05 - Training time for this epoch: 0.074
+14-Feb-23 02:25:05 - epoch: 1, training_loss: -0.516, time:0.075
+14-Feb-23 02:25:22 - epoch: 1, training task loss: 2.9455124935928128, test loss : 4.138076829934112, val loss: 2.927202695795045
+14-Feb-23 02:25:22 - Training time for this epoch: 0.067
+14-Feb-23 02:25:22 - epoch: 2, training_loss: -0.360, time:0.067
+14-Feb-23 02:25:39 - epoch: 2, training task loss: 2.858644063200561, test loss : 3.9918870310349863, val loss: 2.838565520962935
+14-Feb-23 02:25:39 - Training time for this epoch: 0.080
+14-Feb-23 02:25:39 - epoch: 3, training_loss: -0.250, time:0.081
+14-Feb-23 02:25:56 - epoch: 3, training task loss: 2.7936046672217527, test loss : 3.889771882032484, val loss: 2.772801311815729
+14-Feb-23 02:25:56 - Training time for this epoch: 0.072
+14-Feb-23 02:25:56 - epoch: 4, training_loss: -0.185, time:0.073
+14-Feb-23 02:26:12 - epoch: 4, training task loss: 2.747227732432503, test loss : 3.8229906219407344, val loss: 2.7258898287943376
+14-Feb-23 02:26:12 - Training time for this epoch: 0.102
+14-Feb-23 02:26:12 - epoch: 5, training_loss: -0.197, time:0.103
+14-Feb-23 02:26:30 - epoch: 5, training task loss: 2.7086958742637393, test loss : 3.7782809320901323, val loss: 2.687092387110188
+14-Feb-23 02:26:31 - Training time for this epoch: 0.068
+14-Feb-23 02:26:31 - epoch: 6, training_loss: -0.137, time:0.068
+14-Feb-23 02:26:49 - epoch: 6, training task loss: 2.680573931123368, test loss : 3.7488768664448964, val loss: 2.6575865072633835
+14-Feb-23 02:26:49 - Training time for this epoch: 0.066
+14-Feb-23 02:26:49 - epoch: 7, training_loss: -0.124, time:0.066
+14-Feb-23 02:27:05 - epoch: 7, training task loss: 2.6590149677785497, test loss : 3.7284406411375413, val loss: 2.6349872416373494
+14-Feb-23 02:27:06 - Training time for this epoch: 0.070
+14-Feb-23 02:27:06 - epoch: 8, training_loss: -0.086, time:0.071
+14-Feb-23 02:27:22 - epoch: 8, training task loss: 2.6427197277083345, test loss : 3.7132523596025595, val loss: 2.61751742578433
+14-Feb-23 02:27:22 - Training time for this epoch: 0.068
+14-Feb-23 02:27:22 - epoch: 9, training_loss: -0.098, time:0.068
+14-Feb-23 02:27:38 - epoch: 9, training task loss: 2.6270025385490783, test loss : 3.7038697552468185, val loss: 2.6016671163398533
+14-Feb-23 02:27:38 - Training time for this epoch: 0.074
+14-Feb-23 02:27:38 - epoch: 10, training_loss: -0.097, time:0.075
+14-Feb-23 02:27:54 - epoch: 10, training task loss: 2.611904234417434, test loss : 3.6983960734594232, val loss: 2.58578816955151
+14-Feb-23 02:27:55 - Training time for this epoch: 0.068
+14-Feb-23 02:27:55 - epoch: 11, training_loss: -0.052, time:0.069
+14-Feb-23 02:28:10 - epoch: 11, training task loss: 2.6031904987213257, test loss : 3.6956639060547434, val loss: 2.5757752214842116
+14-Feb-23 02:28:10 - Training time for this epoch: 0.077
+14-Feb-23 02:28:10 - epoch: 12, training_loss: -0.060, time:0.077
+14-Feb-23 02:28:29 - epoch: 12, training task loss: 2.5955201458222805, test loss : 3.6957590208159887, val loss: 2.5674833767676457
+14-Feb-23 02:28:29 - Training time for this epoch: 0.067
+14-Feb-23 02:28:29 - epoch: 13, training_loss: -0.039, time:0.068
+14-Feb-23 02:28:47 - epoch: 13, training task loss: 2.5886111048177307, test loss : 3.697525444041471, val loss: 2.560232151121072
+14-Feb-23 02:28:47 - Training time for this epoch: 0.077
+14-Feb-23 02:28:47 - epoch: 14, training_loss: -0.033, time:0.078
+14-Feb-23 02:29:05 - epoch: 14, training task loss: 2.584914797365916, test loss : 3.6992260967872386, val loss: 2.5558285965720464
+14-Feb-23 02:29:05 - Training time for this epoch: 0.064
+14-Feb-23 02:29:05 - epoch: 15, training_loss: -0.044, time:0.065
+14-Feb-23 02:29:32 - epoch: 15, training task loss: 2.580183416288752, test loss : 3.702765521314026, val loss: 2.5510592370846945
+14-Feb-23 02:29:32 - Training time for this epoch: 0.062
+14-Feb-23 02:29:32 - epoch: 16, training_loss: -0.025, time:0.063
+14-Feb-23 02:29:49 - epoch: 16, training task loss: 2.576683578314546, test loss : 3.7066633344040696, val loss: 2.547901163192533
+14-Feb-23 02:29:49 - Training time for this epoch: 0.058
+14-Feb-23 02:29:49 - epoch: 17, training_loss: -0.013, time:0.058
+14-Feb-23 02:30:04 - epoch: 17, training task loss: 2.5746081372816425, test loss : 3.7072751479347863, val loss: 2.5461084708413084
+14-Feb-23 02:30:05 - Training time for this epoch: 0.071
+14-Feb-23 02:30:05 - epoch: 18, training_loss: -0.026, time:0.072
+14-Feb-23 02:30:20 - epoch: 18, training task loss: 2.5724728542770547, test loss : 3.709017781772331, val loss: 2.5434195163555664
+14-Feb-23 02:30:20 - Training time for this epoch: 0.060
+14-Feb-23 02:30:20 - epoch: 19, training_loss: -0.023, time:0.060
+14-Feb-23 02:30:36 - epoch: 19, training task loss: 2.5709313624050623, test loss : 3.709145486281515, val loss: 2.542059713072578
+14-Feb-23 02:30:36 - Training time for this epoch: 0.069
+14-Feb-23 02:30:36 - epoch: 20, training_loss: -0.019, time:0.069
+14-Feb-23 02:30:54 - epoch: 20, training task loss: 2.57013527516969, test loss : 3.709396072786484, val loss: 2.5412297215002835
+14-Feb-23 02:30:54 - Training time for this epoch: 0.065
+14-Feb-23 02:30:54 - epoch: 21, training_loss: -0.024, time:0.065
+14-Feb-23 02:31:12 - epoch: 21, training task loss: 2.568490122864678, test loss : 3.7108890649078528, val loss: 2.539819690349294
+14-Feb-23 02:31:12 - Training time for this epoch: 0.066
+14-Feb-23 02:31:12 - epoch: 22, training_loss: 0.007, time:0.066
+14-Feb-23 02:31:29 - epoch: 22, training task loss: 2.5680502725447596, test loss : 3.7134468183212994, val loss: 2.5394940666532033
+14-Feb-23 02:31:29 - Training time for this epoch: 0.082
+14-Feb-23 02:31:29 - epoch: 23, training_loss: -0.017, time:0.082
+14-Feb-23 02:31:47 - epoch: 23, training task loss: 2.5675630061719055, test loss : 3.716180903330734, val loss: 2.5387056898240496
+14-Feb-23 02:31:47 - Training time for this epoch: 0.072
+14-Feb-23 02:31:47 - epoch: 24, training_loss: -0.010, time:0.072
+14-Feb-23 02:32:05 - epoch: 24, training task loss: 2.5663704032986296, test loss : 3.7160972235612517, val loss: 2.538162316466813
+14-Feb-23 02:32:05 - Training time for this epoch: 0.074
+14-Feb-23 02:32:05 - epoch: 25, training_loss: 0.009, time:0.075
+14-Feb-23 02:32:22 - epoch: 25, training task loss: 2.56587621266779, test loss : 3.7185520660446096, val loss: 2.537681131804576
+14-Feb-23 02:32:22 - Training time for this epoch: 0.066
+14-Feb-23 02:32:22 - epoch: 26, training_loss: -0.005, time:0.067
+14-Feb-23 02:32:43 - epoch: 26, training task loss: 2.565274125922266, test loss : 3.7207122075818693, val loss: 2.5370258086152138
+14-Feb-23 02:32:43 - Training time for this epoch: 0.058
+14-Feb-23 02:32:43 - epoch: 27, training_loss: 0.001, time:0.058
+14-Feb-23 02:33:03 - epoch: 27, training task loss: 2.5649367351012984, test loss : 3.720303545609839, val loss: 2.5373054761165186
+14-Feb-23 02:33:03 - Training time for this epoch: 0.068
+14-Feb-23 02:33:03 - epoch: 28, training_loss: -0.009, time:0.068
+14-Feb-23 02:33:20 - epoch: 28, training task loss: 2.5635703985250773, test loss : 3.7248925749150947, val loss: 2.5356572332510003
+14-Feb-23 02:33:20 - Training time for this epoch: 0.073
+14-Feb-23 02:33:20 - epoch: 29, training_loss: 0.005, time:0.073
+14-Feb-23 02:33:39 - epoch: 29, training task loss: 2.5641487980299704, test loss : 3.722591567186477, val loss: 2.5363661067168275
+14-Feb-23 02:33:39 - Training time for this epoch: 0.078
+14-Feb-23 02:33:39 - epoch: 30, training_loss: 0.024, time:0.078
+14-Feb-23 02:33:57 - epoch: 30, training task loss: 2.565293184485073, test loss : 3.7193968471984897, val loss: 2.5373378182445263
+14-Feb-23 02:33:57 - Training time for this epoch: 0.059
+14-Feb-23 02:33:57 - epoch: 31, training_loss: -0.008, time:0.060
+14-Feb-23 02:34:15 - epoch: 31, training task loss: 2.5653462483306795, test loss : 3.719304423825702, val loss: 2.537497925647982
+14-Feb-23 02:34:15 - Training time for this epoch: 0.065
+14-Feb-23 02:34:15 - epoch: 32, training_loss: 0.005, time:0.065
+14-Feb-23 02:34:33 - epoch: 32, training task loss: 2.565186863908487, test loss : 3.720003078550194, val loss: 2.5376063116289447
+14-Feb-23 02:34:33 - Training time for this epoch: 0.063
+14-Feb-23 02:34:33 - epoch: 33, training_loss: 0.011, time:0.064
+14-Feb-23 02:34:51 - epoch: 33, training task loss: 2.565207441101392, test loss : 3.7215306132070745, val loss: 2.5379141752140884
+14-Feb-23 02:34:51 - Training time for this epoch: 0.060
+14-Feb-23 02:34:51 - epoch: 34, training_loss: -0.008, time:0.061
+14-Feb-23 02:35:09 - epoch: 34, training task loss: 2.5651421601171016, test loss : 3.7215273751216245, val loss: 2.538208125999133
+14-Feb-23 02:35:09 - Training time for this epoch: 0.068
+14-Feb-23 02:35:09 - epoch: 35, training_loss: -0.002, time:0.068
+14-Feb-23 02:35:29 - epoch: 35, training task loss: 2.5640607014404933, test loss : 3.722526423596311, val loss: 2.5376516732796683
+14-Feb-23 02:35:29 - Training time for this epoch: 0.067
+14-Feb-23 02:35:29 - epoch: 36, training_loss: 0.008, time:0.068
+14-Feb-23 02:35:47 - epoch: 36, training task loss: 2.5648159096188166, test loss : 3.7220557011613953, val loss: 2.5384070085253922
+14-Feb-23 02:35:47 - Training time for this epoch: 0.073
+14-Feb-23 02:35:47 - epoch: 37, training_loss: 0.008, time:0.073
+14-Feb-23 02:36:05 - epoch: 37, training task loss: 2.5650310300732073, test loss : 3.7219181930994107, val loss: 2.5392780103637733
+14-Feb-23 02:36:05 - Training time for this epoch: 0.065
+14-Feb-23 02:36:05 - epoch: 38, training_loss: -0.009, time:0.065
+14-Feb-23 02:36:26 - epoch: 38, training task loss: 2.5639406524574344, test loss : 3.7224582894896328, val loss: 2.5385361200112095
+14-Feb-23 02:36:26 - Training time for this epoch: 0.065
+14-Feb-23 02:36:26 - epoch: 39, training_loss: -0.015, time:0.065
+14-Feb-23 02:36:44 - epoch: 39, training task loss: 2.5629192510575143, test loss : 3.7248966173316473, val loss: 2.5379000836555115
+14-Feb-23 02:36:45 - Training time for this epoch: 0.068
+14-Feb-23 02:36:45 - epoch: 40, training_loss: -0.002, time:0.068
+14-Feb-23 02:37:04 - epoch: 40, training task loss: 2.5625839740692893, test loss : 3.7278938041108853, val loss: 2.537668677014113
+14-Feb-23 02:37:05 - Training time for this epoch: 0.074
+14-Feb-23 02:37:05 - epoch: 41, training_loss: 0.002, time:0.074
+14-Feb-23 02:37:23 - epoch: 41, training task loss: 2.562387147206488, test loss : 3.7271636205415217, val loss: 2.5378560115722033
+14-Feb-23 02:37:23 - Training time for this epoch: 0.075
+14-Feb-23 02:37:23 - epoch: 42, training_loss: 0.003, time:0.076
+14-Feb-23 02:37:42 - epoch: 42, training task loss: 2.5617921925178684, test loss : 3.7260871005864096, val loss: 2.5378490043973354
+14-Feb-23 02:37:42 - Training time for this epoch: 0.066
+14-Feb-23 02:37:42 - epoch: 43, training_loss: 0.002, time:0.066
+14-Feb-23 02:38:00 - epoch: 43, training task loss: 2.561990154855736, test loss : 3.727596527424679, val loss: 2.537661548388875
+14-Feb-23 02:38:00 - Training time for this epoch: 0.057
+14-Feb-23 02:38:00 - epoch: 44, training_loss: 0.005, time:0.057
+14-Feb-23 02:38:22 - epoch: 44, training task loss: 2.562700513777413, test loss : 3.727609166918621, val loss: 2.538233836178005
+14-Feb-23 02:38:22 - Training time for this epoch: 0.066
+14-Feb-23 02:38:22 - epoch: 45, training_loss: -0.008, time:0.066
+14-Feb-23 02:38:40 - epoch: 45, training task loss: 2.5627690780451866, test loss : 3.72701397279583, val loss: 2.538733534459406
+14-Feb-23 02:38:40 - Training time for this epoch: 0.059
+14-Feb-23 02:38:40 - epoch: 46, training_loss: -0.004, time:0.059
+14-Feb-23 02:39:01 - epoch: 46, training task loss: 2.56304716860826, test loss : 3.7264845401536393, val loss: 2.539637135141104
+14-Feb-23 02:39:01 - Training time for this epoch: 0.070
+14-Feb-23 02:39:01 - epoch: 47, training_loss: -0.001, time:0.070
+14-Feb-23 02:39:22 - epoch: 47, training task loss: 2.5638205353924297, test loss : 3.725684949829027, val loss: 2.540348479316322
+14-Feb-23 02:39:22 - Training time for this epoch: 0.064
+14-Feb-23 02:39:22 - epoch: 48, training_loss: -0.006, time:0.065
+14-Feb-23 02:39:38 - epoch: 48, training task loss: 2.562801040670304, test loss : 3.7278929372154046, val loss: 2.5395881507138522
+14-Feb-23 02:39:39 - Training time for this epoch: 0.070
+14-Feb-23 02:39:39 - epoch: 49, training_loss: -0.005, time:0.071
+14-Feb-23 02:39:55 - epoch: 49, training task loss: 2.5624790184505555, test loss : 3.727858885524256, val loss: 2.5392249408794987
+14-Feb-23 02:39:55 - Final test mean: 3.8368985734580656, std: 0.20638423866358346
+14-Feb-23 02:39:55 - Final val mean: 2.6222775629147246, std: 0.1039389471933374

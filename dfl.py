@@ -1,7 +1,6 @@
 #/usr/bin/env python3
 
 import argparse
-import setproctitle
 import os
 import pandas as pd
 import numpy as np
@@ -15,7 +14,7 @@ except ImportError: pass
 
 import torch
 
-import model_classes, nets, plot
+import model_classes, nets
 from constants import *
 
 
@@ -24,17 +23,11 @@ def main():
         description='Run electricity scheduling task net experiments.')
     parser.add_argument('--save', type=str, 
         metavar='save-folder', help='prefix to add to save path')
-    parser.add_argument('--nRuns', type=int, default=5,
+    parser.add_argument('--nRuns', type=int, default=10,
         metavar='runs', help='number of runs')
-    parser.add_argument('--num_samples', type=int, default=200,
-        metavar='num_samples', help='number of samples used in stochastic optimization')
     parser.add_argument('--lr', type=int, default=1e-3,
         metavar='learning rate', help='learning rate')
-    parser.add_argument('--ratio', type=float, default=1.,
-        metavar='ratio', help='ratio of training data')
     args = parser.parse_args()
-
-    setproctitle.setproctitle('power_sched')
 
     X1, Y1 = load_data_with_features('data/pjm_load_data_2008-11.txt')
     X2, Y2 = load_data_with_features('data/pjm_load_data_2012-16.txt')
@@ -70,7 +63,7 @@ def main():
     X_hold2_ = torch.tensor(X_hold2[:,:-1], dtype=torch.float32, device=DEVICE)
     Y_hold2_ = torch.tensor(Y_hold2, dtype=torch.float32, device=DEVICE)
 
-    train_num = int(X_train2_.shape[0]*args.ratio)
+    train_num = int(X_train2_.shape[0])
     X_train2_ = X_train2_[:train_num,:]
     Y_train2_ = Y_train2_[:train_num,:]
     variables = {'X_train_': X_train2_, 'Y_train_': Y_train2_, 
@@ -80,7 +73,7 @@ def main():
 
     base_save = 'results' if args.save is None else '{}-results'.format(args.save)
     for run in range(args.nRuns):
-        run = run+5
+        run = run
         save_folder = os.path.join(base_save, str(run))
         if not os.path.exists(save_folder):
             os.makedirs(save_folder)
@@ -93,13 +86,13 @@ def main():
         
 
         model_task = model_classes.Net(X_train2[:,:-1], Y_train2, [200, 200])
-        model_task.load_state_dict(torch.load(os.path.join(save_folder, 'two-stage_model'.format(args.ratio))))
+        model_task.load_state_dict(torch.load(os.path.join(save_folder, 'two-stage_model')))
         if USE_GPU:
             model_task = model_task.cuda()
         model_task = nets.run_task_net(
-            model_task, variables, params, X_train2, Y_train2, args)
+            model_task, variables, params, X_train2, Y_train2)
         
-        torch.save(model_task.state_dict(), os.path.join(save_folder, 'DFL-model'))
+        torch.save(model_task.state_dict(), os.path.join(save_folder, 'dfl_model'))
 
 
 

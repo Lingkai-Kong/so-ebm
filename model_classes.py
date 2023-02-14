@@ -26,51 +26,16 @@ class Net(nn.Module):
                 for a,b in zip(layer_sizes[0:-1], layer_sizes[1:])])
         layers += [nn.Linear(layer_sizes[-1], Y.shape[1]*2)]
         self.net = nn.Sequential(*layers)
-        
-        #self.sig = Parameter(torch.ones(1, Y.shape[1], device=DEVICE))
-        
+                
     def forward(self, x):
         prediction = self.net(x)
-        #print(x.shape[1])
         mu = prediction[:,0:24]
         sigma = prediction[:,24:]
-        
         sigma = F.softplus(sigma)+1e-6
-        
-        #print(mu.shape)
-        #print(sigma.shape)
         
         return mu, sigma
             
-            #self.sig.expand(x.size(0), self.sig.size(1))
-    
-    # def set_sig(self, X, Y):
-    #     Y_pred = self.lin(X) + self.net(X)
-    #     var = torch.mean((Y_pred-Y)**2, 0)
-    #     self.sig.data = torch.sqrt(var).data.unsqueeze(0)
-
-
-class Net_RMSE(nn.Module):
-    def __init__(self, X, Y, hidden_layer_sizes):
-        super(Net_RMSE, self).__init__()
-        
-        # Set up non-linear network of 
-        # Linear -> BatchNorm -> ReLU -> Dropout layers
-        layer_sizes = [X.shape[1]] + hidden_layer_sizes
-        layers = reduce(operator.add, 
-            [[nn.Linear(a,b), nn.BatchNorm1d(b), nn.ReLU(), nn.Dropout(p=0.2)] 
-                for a,b in zip(layer_sizes[0:-1], layer_sizes[1:])])
-        layers += [nn.Linear(layer_sizes[-1], Y.shape[1])]
-        self.net = nn.Sequential(*layers)
-        
-        #self.sig = Parameter(torch.ones(1, Y.shape[1], device=DEVICE))
-        
-    def forward(self, x):
-        prediction = self.net(x)
-        return prediction
             
-
-
 
 def GLinearApprox(gamma_under, gamma_over):
     #Linear (gradient) approximation of G function at z
@@ -174,9 +139,9 @@ class SolveScheduling(nn.Module):
         
         # Find the solution via sequential quadratic programming, 
         # not preserving gradients
-        z0 = mu.detach() # Variable(1. * mu.data, requires_grad=False)
-        mu0 = mu.detach() # Variable(1. * mu.data, requires_grad=False)
-        sig0 = sig.detach() # Variable(1. * s   `   ig.data, requires_grad=False)
+        z0 = mu.detach() 
+        mu0 = mu.detach() 
+        sig0 = sig.detach() 
         for i in range(20):
             dg = GLinearApprox(self.params["gamma_under"], 
                 self.params["gamma_over"])(z0, mu0, sig0)

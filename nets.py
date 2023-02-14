@@ -12,7 +12,7 @@ import model_classes
 from constants import *
 import torch.distributions.normal as normal
 import cvxpy as cp
-from cvxpylayers.torch import CvxpyLayer
+#from cvxpylayers.torch import CvxpyLayer
 
 def gaussian_pdf(mean, sig, z):
     
@@ -103,7 +103,7 @@ def run_nll_net(model, variables, X_train, Y_train):
     return model
 
 
-def run_task_net(model, variables, params, X_train, Y_train, args):
+def run_task_net(model, variables, params, X_train, Y_train):
     opt = optim.Adam(model.parameters(), lr=1e-5)
     solver = model_classes.SolveScheduling(params)
 
@@ -114,6 +114,7 @@ def run_task_net(model, variables, params, X_train, Y_train, args):
     num_stop_rounds = 20
 
     for i in range(1000):
+        print('Epoch: {}'.format(i))
         t = time.time()
         opt.zero_grad()
         model.train()
@@ -123,7 +124,7 @@ def run_task_net(model, variables, params, X_train, Y_train, args):
             Y_sched_train.float(),variables['Y_train_'], params)
         train_loss.sum().backward()
 
-        print('time: {}'.format(time.time()-t))
+        print('Training time for this epoch: {:0.3f}'.format(time.time()-t))
         model.eval()
         mu_pred_test, sig_pred_test = model(variables['X_test_'])
         Y_sched_test = solver(mu_pred_test.double(), sig_pred_test.double())
@@ -137,8 +138,8 @@ def run_task_net(model, variables, params, X_train, Y_train, args):
 
         opt.step()
 
-        print(i, train_loss.sum().item(), test_loss.sum().item(), 
-            hold_loss.sum().item())
+        print('Training loss: {:0.3f}, Test loss: {:0.3f}, validation loss: {:0.3f}'.format(train_loss.sum().item(), test_loss.sum().item(), 
+            hold_loss.sum().item()))
         
 
         # Early stopping
@@ -163,31 +164,17 @@ def run_task_net(model, variables, params, X_train, Y_train, args):
 
 
 
-def eval_net(which, model, variables, params, save_folder):
+def eval_net(model, variables, params):
     solver = model_classes.SolveScheduling(params)
 
     model.eval()
-    
-    if (which == 'mcdp' or which == 'mcdp-task'):
-        num_forward = 50
-        mu_pred_test = 0
-        sig_pred_test = 0
-        for i in range(num_forward):
-            mu_pred, sig_pred = model(variables['X_test_'])
-            mu_pred_test = mu_pred_test + mu_pred
-            sig_pred_test = sig_pred_test + sig_pred
-        mu_pred_test = mu_pred_test/num_forward
-        sig_pred_test = sig_pred_test/num_forward
-    else:
-        mu_pred_test, sig_pred_test = model(variables['X_test_'])
-
-    test_nll = nll_loss(mu_pred_test, sig_pred_test, variables['Y_test_'])
+    mu_pred_test, sig_pred_test = model(variables['X_test_'])
 
     Y_sched_test = solver(mu_pred_test.double(), sig_pred_test.double())
     test_loss_task = task_loss(
         Y_sched_test.float(), variables['Y_test_'], params)
     
-    print('####test_task_loss: {}'.format(test_loss_task.sum()))
+    #print('####test_task_loss: {}'.format(test_loss_task.sum()))
 
-    return test_nll.detach().cpu().numpy(), test_loss_task.detach().cpu().numpy()
+    return test_loss_task.detach().cpu().numpy()
 
