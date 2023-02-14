@@ -328,7 +328,7 @@ def main():
             
             # (shape: batch_size*num_samples, 24)     
             E_gt = task_loss_expectation(variables['Z_train_'], mu_pred, sig_pred, params).sum(1)
-            negative_samples = langevin_dynamics(model, variables['Z_train_'], variables, params, args.num_samples_mle)
+            negative_samples = langevin_dynamics(model, variables['Z_train_'], variables, params, args.steps, args.step_size, args.num_samples_mle)
 
             E_model = task_loss_expectation(negative_samples, mu_pred, sig_pred, params).sum(1)
             MLE = E_gt.mean(0) - E_model.mean(0)
