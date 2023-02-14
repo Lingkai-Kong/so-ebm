@@ -167,7 +167,7 @@ def main():
         help='training method for so-ebm')
     parser.add_argument('--nRuns', type=int, default=10,
         metavar='runs', help='number of runs')
-    parser.add_argument('--epochs', type=int, default=50,
+    parser.add_argument('--epochs', type=int, default=10,
         metavar='epochs', help='number of epochs')
     parser.add_argument('--steps', type=int, default=32,
         metavar='steps', help='number of steps of legevin dynamics')
